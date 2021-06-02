@@ -1,0 +1,41 @@
+,feature/ exemplar ENGLISH,,can opener,plate,toaster,bottle,stove,fridge,glass,towel,kettle,whisk,percolator,bowl,spoon,knife,microwave oven,mixer,nutcracker,place mat,oven,pan,pot,grater,scissors,apron,spatula,mug,teaspoon,colander,fork,electric kettle,scales,wok,sieve
+feature / exemplar DUTCH,,freq,blikopener,bord,broodrooster,fles,fornuis,frigo,glas,handdoek,ketel,klopper,koffiezet,kom,lepel,mes,microgolf,mixer,notenkraker,onderlegger,oven,pan,pot,rasp,schaar,schort,spatel,tas,theelepel,vergiet,vork,waterkoker,weegschaal,wok,zeef
+bestaat al lang,has been existing for a long time,3,0,1,0,1,0,0,1,1,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,0,1,1,1,0,1,0,1,1,0
+bestaat in verschillende soorten,exists in different kinds,3,0,1,0,0,1,0,1,0,0,0,1,1,0,1,0,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1,0,0
+bestaat in verschillende vormen,exists in different forms,3,1,1,1,1,0,1,1,0,0,1,0,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1,0,1,0,1,1,1,1
+dient om eten in te bewaren,used to store food,2,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+gemaakt uit hout,made of wood,6,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+gemaakt uit metaal,made of metal,12,1,0,1,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,0,1,1,1
+gemaakt uit plastic,made of plastic,3,1,1,1,1,0,1,0,0,0,1,1,1,0,0,1,1,1,1,0,1,1,0,1,0,1,0,0,1,0,1,1,0,0
+heeft een handvat,has a grip,2,1,0,0,0,0,1,0,0,1,1,0,0,1,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,0,1,1
+heeft iedereen,everybody has it,6,1,1,0,1,1,1,1,1,0,1,0,1,1,1,1,0,0,1,0,1,1,0,1,0,0,1,1,0,1,0,0,0,0
+is duur,is expensive,4,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+is functioneel,is functional,2,1,1,1,1,1,1,1,1,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+is grijs,is grey,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+is handig,comes in very handy,5,1,1,1,0,0,1,0,0,0,1,1,1,1,0,0,1,0,1,0,1,0,1,1,0,1,0,0,0,1,1,1,0,0
+is multifunctioneel,is multifunctional,2,1,1,0,1,0,0,1,1,0,0,0,1,1,1,1,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+is scherp,is sharp,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+is stevig,is firm,2,1,0,1,1,0,1,0,0,1,1,0,0,1,1,1,0,1,0,1,1,1,0,0,0,1,1,1,1,1,0,0,1,0
+is wit,is white,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+kan je afwassen,can be dishwashed,3,0,1,0,0,0,0,1,0,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,0,1,1
+koop je in de winkel,bought in a store,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+maakt lawaai,produces noise,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+moet je afwassen na gebruik,has to be washed after use,7,0,1,0,0,0,0,1,0,1,1,1,1,1,1,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1,0,0,1,1
+wordt gebruikt bij het koken,used for cooking,10,0,0,0,0,1,0,0,1,1,1,0,1,1,1,1,1,0,0,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1
+wordt in de keuken gebruikt,used in the kitchen,20,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+wordt vooral gebruikt door vrouwen,especially used by women,2,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+gebruik je om eten klaar te maken,is used to prepare food,14,1,0,1,0,1,0,0,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,0,0,0,0,0,1,1,1,0,1,1
+is elektronisch,is electronic,6,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+is er in verschillende materialen,comes in different materials,2,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1
+is gereedschap,is a tool,2,1,0,1,0,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,0,1
+is onmisbaar,is indispensable,3,1,1,0,1,1,1,1,0,1,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0
+kan elektronisch zijn,can be electronic,2,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+kan gevaarlijk zijn,can be dangerous,4,1,0,1,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+kan je mee eten,can be used to eat with,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+kan je mee snijden,can be used to cut things,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+kan tegen warmte,can stand heat,3,1,1,1,0,1,0,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,0
+koop je in een speciaalzaak,is bought in a specialist shop,2,0,1,1,0,1,1,0,0,1,1,1,1,0,0,1,1,0,0,1,1,1,1,0,0,0,1,1,1,0,0,1,1,0
+vergemakkelijkt het werk in de keuken,makes work in the kitchen easier,3,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1
+vind je in de kast,is found in a cupboard,2,1,1,0,0,0,0,1,1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+voelt koud aan,feels cold to the skin,2,1,1,0,0,0,0,1,0,1,1,0,0,1,1,1,0,0,0,0,1,1,1,1,0,0,1,1,0,1,0,0,1,0
+wordt soms cadeau gedaan aan pasgehuwden,is sometimes given to newly-weds as a present,3,0,1,1,1,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0

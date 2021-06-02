@@ -1,0 +1,23 @@
+,feature/ exemplar ENGLISH,,actor,lawyer,pharmacist,archaeologist,architect,baker,accountant,fireman,veterinarian,manager,doctor,information scientist,physiotherapist,cook,teacher,plumber,stallholder,minister,educator,pilot,police officer,postman,psychologist,judge,secretary,butcher,stewardess,dentist,garbage collector,shop-assistant
+feature / exemplar DUTCH,,freq,acteur,advocaat,apotheker,archeoloog,architect,bakker,boekhouder,brandweerman,dierenarts,directeur,dokter,informaticus,kinesist,kok,leraar,loodgieter,marktkramer,minister,opvoedster,piloot,politieagent,postbode,psycholoog,rechter,secretaresse,slager,stewardess,tandarts,vuilnisman,winkelbediende
+bepaalt je sociale status,determines your social status,10,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+bron van stress / frustraties,source of stress / frustrations,4,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+er zijn verschillende soorten van,there are different kinds,14,0,1,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0,1,0,1,1,0,1,1,0,0,0,0,0,0
+heb je een speciale outfit voor nodig,involves wearing a particular outfit,2,0,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,1,1,0,1,0,0,0,0,1,0
+heeft sterke invloed op de rest van je leven,has strong influence upon the rest of your life,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+is bij wet geregeld,is regulated by law,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+is een activiteit,is an activity,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+is een job,is a job,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+is iets dat je elke dag uitoefent,is something you do every day,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+is iets voor volwassenen,is something adults do,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+is verschillend voor mannen en vrouwen,is different for men and women,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0
+is voordelig voor staat/economie,is advantageous for society / economy,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+moet je graag doen om het vol te houden,you have to enjoy it in order to keep it up,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+neemt veel tijd in beslag,takes up a lot of time,7,0,1,0,0,1,1,0,0,1,1,1,0,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,1,0,0
+oefen je je hele leven uit,is somthing you do throughout your life,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+oefen je niet thuis uit,you do not practise it at your home,2,1,1,0,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+oefen je uit,is something you do,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+verdien je geld mee,earns you money,20,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+vereist opleiding,requires a certain education,20,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,0,0
+vereist specifieke kennis,requires specific knowledge,4,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,0,1,0,0
+vereist specifieke vaardigheden,requires specific skills,3,1,1,0,1,1,1,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,0,0

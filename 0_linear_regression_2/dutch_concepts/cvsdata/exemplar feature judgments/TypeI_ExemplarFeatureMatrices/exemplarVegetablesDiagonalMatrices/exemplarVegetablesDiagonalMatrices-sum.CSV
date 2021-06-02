@@ -1,0 +1,293 @@
+,feature/ exemplar ENGLISH,,potato,onions,asparagus,eggplant,gherkins,beet,cauliflower,beans,mushrooms,zucchini,peas,chervil,cucumber,garlic,corn,pepper,parsley,leek,radish,red cabbage,black salsify,celery,lettuce,spinach,Brussels sprouts,tomato,water cress,endive,white cabbage,carrot
+feature / exemplar DUTCH,,freq,aardappel,ajuin,asperges,aubergine,augurken,biet,bloemkool,bonen,champignons,courgette,erwten,kervel,komkommer,look,maïs,paprika,peterselie,prei,radijs,rode kool,schorseneren,selder,sla,spinazie,spruiten,tomaat,waterkers,witloof,witte kool,wortel
+aantrekkelijk voor insecten,attractive to insects,6,1,0,0,0,0,0,2,1,0,0,0,1,0,0,1,0,1,1,0,1,0,0,2,1,1,1,1,0,0,0
+afgereden door landbouwmachines,is harvested by agricultural machines,4,2,1,0,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+afschrikmiddel voor vampieren,against vampires,8,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+als gerecht met hesp en kaas,is prepared with ham and cheese,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0
+aperitiefhapje,appetizer,9,0,0,0,0,2,0,4,0,1,0,0,0,3,0,0,2,0,0,2,0,0,2,0,0,0,1,0,1,1,4
+bestaat in verschillende groottes,exists in several sizes,9,4,3,1,1,1,2,2,3,4,2,0,0,1,0,2,2,0,0,0,0,0,1,2,0,0,4,0,0,1,4
+bestaat in verschillende kleuren,exists in several colours,8,2,3,3,1,0,3,1,4,2,0,1,0,0,0,0,4,0,0,1,0,0,1,3,0,0,1,0,1,1,0
+bestaat in verschillende soorten,exists in several kinds,33,4,4,3,1,0,2,1,4,4,0,2,0,1,0,1,4,0,0,0,0,0,1,4,0,0,3,0,1,0,2
+bestaat uit draadjes,consists of threads,8,0,0,2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0
+bevat veel ijzer,contains a lot of iron,16,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2,1,0,0,0,1,1,4,0,0,1,0,0,0
+bevat veel water,contains a lot of water,21,0,2,0,2,1,0,0,0,3,2,0,0,3,0,0,2,0,2,0,1,0,0,3,2,0,2,0,1,1,0
+bevat vitaminen,contains vitamins,15,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+bevat zetmeel,contains starch,8,4,0,0,0,0,1,1,2,0,0,2,0,0,0,2,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1
+bij de groentenboer kopen,buy by the greengrocer,8,4,4,4,4,3,4,4,4,3,4,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,4,3,4,4,4
+bobbeltjes erop,with blebs,5,0,0,0,0,3,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bruine kleur,brown colour,18,3,2,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+buisvormig,is tubulated,6,0,0,4,1,2,0,0,2,0,2,0,0,3,0,1,0,0,2,0,0,3,2,0,0,0,0,0,0,0,2
+chips,chips,6,4,0,1,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+de wortel is een onderdeel van een plant,the root is a part of the plant,8,4,3,1,2,2,4,3,2,1,3,3,4,3,2,4,3,3,4,4,2,1,4,4,4,2,3,3,3,3,4
+doe je in het eten,you put it in your food,4,2,4,2,2,3,2,2,2,2,2,2,3,2,4,2,3,4,2,2,2,2,2,2,2,2,2,3,2,2,2
+donkergroene kleur,dark green,4,0,0,1,0,3,0,0,3,0,4,4,4,4,0,0,1,4,2,0,0,0,2,2,4,2,0,3,0,0,0
+doordringende geur,pungent smell,6,0,4,1,0,1,1,1,1,0,0,0,2,0,4,0,0,2,2,1,2,0,1,0,0,2,0,1,2,0,0
+een weinig bekende groente,litte known vegetable,4,0,0,0,2,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+eet het gehakt,is eaten chopped,4,0,3,0,0,0,0,0,0,3,0,0,1,0,3,0,2,1,1,0,1,0,2,0,1,0,3,0,0,1,1
+eet je met tomatensaus,you eat it with tomato sauce,4,0,1,0,1,0,0,0,3,2,2,0,0,1,2,1,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+eetbaar,is edible,100,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+er zitten vaak slakken op,snails love it,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,1,0,0,0,0,0,0
+eten met witte saus,to eat with white sauce,21,1,0,2,1,0,0,4,2,2,0,0,0,0,0,0,0,0,3,0,1,2,1,1,0,1,0,0,1,4,0
+eten met worteltjes,eat with carrots,10,1,1,0,0,0,0,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+eten voor konijnen,food for rabbits,15,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,0,0,1,3
+familie van de courgette,is family of the courgette,4,0,0,0,3,2,0,0,0,0,2,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+familie van komkommer,is family of the cucumber,4,0,0,0,1,3,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+familie van kool,family of the cabbage,19,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,4,0,0,0,4,0
+ge kunt ermee smijten,you can throw with it,5,4,4,3,3,3,4,4,3,3,4,3,3,3,3,4,3,3,3,4,4,3,3,3,3,3,3,3,3,4,3
+gebruikt men voor soep,is used in soup,119,4,4,4,0,0,0,4,4,4,3,4,4,4,1,1,3,3,4,0,0,0,2,2,3,1,4,3,4,1,4
+gebruikt tijdens maaltijden,used during meals,6,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+gebruikt voor broodjes,is used for bread rolls,14,0,4,0,0,3,0,0,0,0,0,0,0,4,0,2,0,0,0,0,0,0,0,4,0,0,4,2,0,0,4
+geeft smaak aan gerechten,gives flavour to dishes,14,0,4,0,0,1,0,0,0,0,0,0,1,0,4,0,2,3,1,0,0,0,2,0,0,1,1,1,1,0,0
+gegeten met aardappelen,is eaten with patatoes,14,2,3,2,2,1,2,4,4,3,2,4,0,1,1,2,2,2,4,1,4,4,2,3,4,4,3,2,4,4,4
+gemalen tot witte bloem - maïzena,cornflour,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+geribbelde structuur,ribbed shap,4,0,0,0,0,2,0,1,0,0,1,0,0,1,1,0,0,0,0,0,1,0,2,0,0,0,0,0,0,1,0
+geurloos,is odourless,28,3,0,1,3,3,2,1,1,2,3,3,1,2,0,3,1,1,0,2,1,1,1,3,2,0,1,2,3,1,2
+glanzend,is shiny,4,0,1,0,4,0,0,0,0,0,2,1,0,3,0,0,4,0,2,0,0,0,0,0,0,0,3,0,1,0,0
+goed voor het bloed,is good for your blood,5,0,3,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,0,0,0,0,1,0,0,0,1,0,0,0,0
+groeien in bossen,grow in woods,10,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0
+groeit,grows,8,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+groeit aan bomen,grows at trees,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+groeit aan een kolf,grows at a cob,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+groeit aan een plant,grows at a plant,31,1,1,0,3,3,1,0,4,0,2,4,1,3,3,4,4,1,0,3,0,0,2,1,1,2,4,0,0,1,2
+groeit aan stengels,grows at stalks,4,1,1,0,3,2,1,0,3,0,2,3,3,2,2,4,3,3,1,1,0,0,2,0,0,2,4,1,0,0,2
+groeit aan struik,grows at a bush,8,0,1,0,1,1,0,0,3,0,1,3,0,1,3,1,3,0,0,0,0,0,0,0,0,2,4,0,0,0,0
+groeit in België,grows in Belgium,33,4,4,4,2,3,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,3
+groeit in de grond,grows in the ground,112,4,4,4,3,2,4,3,2,2,3,2,3,3,2,2,2,3,4,4,3,3,4,3,3,3,2,3,4,2,4
+groeit in de moestuin,grows in the vegetable garden,27,4,3,2,1,1,0,4,4,0,2,4,3,3,3,0,2,4,4,4,3,2,4,3,4,3,3,1,2,2,4
+groeit in de tuin,grows in the garden,62,3,3,3,2,0,3,3,3,1,3,3,4,3,2,0,2,4,3,3,2,2,3,3,2,3,3,1,2,2,3
+groeit in de winter,grows in the winter,9,1,1,0,0,0,0,1,1,2,1,1,1,1,1,0,0,1,2,1,2,1,1,1,1,3,1,1,2,2,2
+groeit in een serre,grows in glasshouse,11,1,1,1,3,2,1,0,1,1,4,1,1,3,2,0,4,2,1,3,1,1,1,3,3,1,4,4,2,2,2
+groeit in gematigde streken,grows in moderate climat,5,4,4,4,2,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,3,4,4,4,4
+groeit in het donker,grows in the dark,7,2,2,2,0,0,2,0,0,3,0,0,0,0,1,0,0,0,2,2,0,2,0,0,0,1,0,0,3,1,1
+groeit in kroppen,grows in heads,9,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,4,0,0,0,0,0,2,0
+groeit in mest,grows in manure,4,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+groeit in trossen,grows gregariously,12,0,0,0,0,0,0,0,2,0,0,2,0,0,2,0,0,0,0,1,0,0,0,0,0,1,4,0,0,0,2
+groeit in warme streken,grows in warm regions,8,1,1,1,4,4,1,1,1,1,3,1,1,3,2,2,3,1,1,1,1,2,1,2,1,1,3,2,1,1,1
+groeit laag bij de grond,grows low to the ground,5,2,2,2,3,2,1,4,1,4,3,1,3,4,2,0,1,3,2,2,4,2,3,4,3,1,1,3,2,4,2
+groeit onder de grond,grows under the ground,33,3,2,3,0,0,3,0,0,2,0,0,0,0,1,0,0,0,3,3,0,2,0,0,0,1,0,0,2,0,3
+groeit op het veld,grows on the field,32,4,3,4,2,2,4,4,3,1,2,3,3,2,3,4,2,3,4,4,4,3,4,4,4,4,2,2,3,3,4
+groeit op vochtige plekken,grows on humid places,5,1,0,0,0,0,0,0,1,3,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,3,1,1,1
+groeit snel,grows fast,4,3,3,0,1,1,2,2,3,2,3,2,2,2,2,1,0,3,2,2,2,0,2,3,3,2,1,3,1,3,3
+groen vanbinnen,green inside,4,0,0,2,0,3,0,1,3,0,2,4,3,2,0,0,2,4,1,0,0,0,4,4,4,4,0,4,0,1,0
+groene kleur,green colour,254,0,0,1,0,4,0,0,3,0,4,4,4,4,0,0,2,3,4,0,0,0,4,4,4,4,0,4,0,0,0
+grote bladeren,big leaves,5,1,0,0,1,0,0,3,0,0,1,0,1,0,0,1,0,0,1,0,3,0,0,4,1,0,0,0,0,3,0
+heeft bladeren ,has leaves,39,1,0,0,1,1,0,4,1,0,1,1,4,1,0,2,1,3,3,1,1,1,4,4,3,2,1,4,0,1,2
+heeft bloemen,has flowers,4,1,0,0,1,1,0,1,2,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+heeft een aparte smaak,has a typical taste,4,0,1,3,2,3,2,3,2,1,1,1,1,1,4,1,2,4,2,4,3,2,3,0,2,4,1,3,3,1,1
+heeft een bruine schil,has a brown skin,11,4,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+heeft een groene stengel,has a green stalk,12,1,1,0,1,1,1,1,1,0,1,1,3,1,1,1,2,4,2,2,0,0,4,0,3,1,1,2,0,0,3
+heeft een kern,has a core,4,0,3,0,1,1,1,1,0,0,1,1,0,1,2,1,3,0,0,0,1,0,0,1,0,1,2,0,2,2,0
+heeft een kroontje,has a crown,7,0,0,0,2,1,0,0,0,0,2,0,0,2,0,0,3,0,0,2,0,0,0,0,0,0,4,0,0,0,0
+heeft een schil,has a skin,24,4,4,4,4,1,3,0,1,0,4,1,0,4,3,1,2,0,0,2,0,2,0,0,0,0,2,0,0,0,3
+heeft een staartje,has a tail,4,0,1,0,2,1,0,0,3,0,2,0,0,2,1,1,2,0,1,3,0,0,0,0,0,0,1,0,0,0,1
+heeft een stengel,has a stalk,53,1,1,1,2,0,1,0,3,1,2,2,3,1,1,3,3,3,3,1,0,0,3,0,1,2,3,1,0,0,3
+heeft groen loof,has green green,9,1,1,0,1,1,2,3,1,0,1,1,4,1,0,1,1,4,3,2,0,0,4,4,3,1,1,3,0,0,3
+heeft groene bladeren,has green leaves,47,1,0,1,2,1,0,4,2,0,2,2,4,1,0,2,1,3,4,1,0,0,4,4,4,2,1,4,0,0,1
+heeft kleine blaadjes,has little leaves,27,0,0,0,0,0,1,2,0,0,0,0,3,0,0,0,0,3,0,1,0,0,2,0,1,0,0,3,0,0,0
+heeft loof,has green,8,2,3,0,1,1,2,2,1,0,1,1,2,1,0,1,1,1,2,2,1,0,3,0,1,1,1,0,2,1,3
+heeft nerven,has veins,4,0,0,0,0,0,0,2,1,0,0,1,1,0,0,1,0,1,1,0,2,1,1,4,4,2,0,1,1,1,0
+heeft ogen,has eyes,4,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+heeft pitten,has seeds,32,0,0,0,3,2,0,0,0,0,3,0,0,3,0,0,4,0,0,0,0,0,0,0,0,0,4,0,0,0,0
+heeft punt,has a point,4,0,1,4,0,1,0,0,4,0,0,0,0,2,1,1,1,0,1,2,0,3,0,0,0,0,1,0,2,0,4
+heeft sporen,has trace elements,7,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+heeft verschillende lagen,has several layers,23,1,4,1,0,0,1,0,0,1,0,0,0,1,2,0,0,0,2,0,1,0,0,2,0,2,0,0,3,1,0
+heeft water nodig,needs water,8,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+heeft wortels,has roots,37,2,4,3,1,1,4,4,2,1,2,2,3,2,4,2,2,4,4,4,4,3,4,4,4,2,2,3,3,4,4
+heeft zonlicht nodig om te groeien,needs sunlight to grow,4,2,3,3,4,4,3,4,4,1,4,4,4,4,4,4,4,4,3,3,4,3,4,4,4,3,4,4,1,4,3
+het is fris,it is fresh,7,0,3,1,0,3,0,1,0,0,1,0,0,4,0,1,4,1,1,3,0,0,1,3,1,0,4,3,1,1,3
+het is wit of groen,it is white or green,14,0,0,3,0,0,0,2,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0
+het smaakt bitter,tastes bitter,50,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,4,0,0
+hoort bij tomaten,belongs to tomatoes,9,1,3,0,1,0,0,0,1,1,1,1,0,3,3,1,3,2,1,0,0,0,1,3,0,0,2,2,0,0,2
+in azijn bewaard,store in vinegar,9,0,1,0,0,4,1,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+in de zomer,in the summer,35,4,4,4,4,4,3,4,4,4,4,3,3,4,4,4,4,4,4,4,3,4,4,4,4,4,4,3,3,2,4
+in het zuur,in sour,5,0,1,0,0,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+in kleine stukjes snijden,cut in little pieces,23,2,4,0,3,2,2,1,0,3,3,0,1,3,4,0,3,2,3,0,3,1,1,0,1,0,2,0,2,2,3
+in schijfjes,in slices,10,2,2,0,2,2,0,0,0,3,2,0,0,4,0,0,1,0,2,1,0,0,1,0,0,0,3,0,0,0,3
+in sla,in salad,14,2,4,1,0,2,1,1,2,2,0,1,0,4,3,4,3,2,0,2,1,0,0,3,2,0,3,2,3,1,3
+in spaghetti,in spaghetti,29,0,4,1,1,0,0,0,1,4,3,1,0,0,4,0,4,1,1,0,0,0,1,0,0,0,4,0,0,0,4
+"is ""boerenkost""",peasant food,4,4,1,0,0,0,4,4,3,0,0,2,0,1,0,1,0,0,3,0,4,2,1,1,2,3,1,0,1,2,2
+is dik,is thik,7,3,3,0,3,0,2,4,0,0,3,0,0,1,0,0,2,0,0,0,3,1,1,1,0,0,3,0,0,4,1
+is dun,is thin,5,0,0,4,0,2,0,0,4,0,0,2,3,1,0,1,1,3,2,0,1,3,2,1,2,0,0,2,1,0,4
+is een bladgroente,is a leaf vegetable,5,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,2,1,0,1,0,0,4,4,0,0,3,1,2,0
+is een groente,is a vegetable,317,4,4,4,4,4,4,4,4,4,4,4,3,4,1,4,4,1,4,4,4,4,4,4,4,4,4,4,4,4,4
+is een hoopje bladeren,is a heap leaves,9,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0,2,0,0,1,0,1,4,3,0,0,3,1,0,0
+is een inheemse groente,is an indigenous vegetable,15,3,4,4,0,2,4,4,4,3,2,4,3,2,2,3,1,3,4,3,4,4,4,4,4,4,3,3,4,4,4
+is een kruid,is a herb,23,0,0,0,0,0,0,0,0,0,0,0,2,0,4,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+is een plant,is a plant,11,3,3,4,4,4,3,3,4,2,4,4,3,4,3,4,4,4,3,3,3,3,3,3,3,4,4,3,3,4,4
+is een vrucht,is a fruit,7,1,1,0,2,2,1,0,2,0,2,2,0,2,2,3,3,0,1,0,0,1,0,0,0,1,3,0,0,1,1
+is een wintergroente,is a winter vegetable,28,1,0,1,0,0,1,1,1,0,0,2,0,0,0,0,0,0,1,0,3,2,0,0,1,4,0,0,4,3,1
+is Europees,is European,9,2,4,4,3,4,4,4,3,4,4,4,4,4,3,2,2,4,4,4,4,4,4,4,4,4,3,4,4,4,4
+is geel,is yellow,30,2,0,0,0,0,0,0,1,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+is gezond,is healthy,100,4,4,4,4,3,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+is glad,is smooth,9,1,1,1,4,0,0,0,1,0,2,2,0,3,0,0,3,0,2,1,0,0,0,0,0,0,4,0,1,1,2
+is goed voor de ogen,is good for your eyes,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+is goedkoop,is cheap,14,4,4,0,0,2,3,1,2,0,1,2,2,1,4,4,0,0,1,0,1,1,1,3,1,1,1,1,0,1,2
+is hard,is hard,24,3,4,2,1,2,4,4,2,1,1,2,0,2,2,3,2,0,1,4,4,2,1,0,0,2,1,0,2,4,4
+is klein,is little,54,4,4,0,0,2,2,0,3,4,0,4,1,0,4,2,1,1,0,4,0,2,1,0,0,4,4,2,1,0,1
+is lang,is long,34,0,0,4,4,2,0,0,3,0,4,0,0,4,0,3,0,0,4,0,0,4,3,0,0,0,0,0,2,0,4
+is lang en smal,is long and small,6,0,0,4,0,0,0,0,3,0,0,0,0,1,0,1,0,0,3,0,0,4,2,0,0,0,0,1,0,0,4
+is langwerpig,is elongated,48,1,0,4,4,4,1,0,4,0,4,0,0,4,0,4,2,0,4,0,0,4,3,0,0,0,0,0,4,0,4
+is lekker met cocktailsaus,is delicous with cocktail sauce,5,3,1,0,0,0,0,4,0,0,0,0,0,3,0,0,4,0,0,2,0,0,1,0,0,0,3,0,2,1,4
+is niet lekker,is not tastily,48,0,0,0,0,1,3,1,1,0,0,1,1,1,0,1,0,2,0,2,1,0,1,0,0,1,0,1,1,1,0
+is oranje,is orange,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+is ovaal,is oval,17,4,0,0,4,4,1,0,2,0,3,0,0,3,2,0,2,0,0,0,0,1,0,0,0,0,0,0,4,0,1
+is paars,is purple,19,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0
+is peulvrucht,is a legume,10,0,0,0,0,0,0,0,3,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+is pikant,is piquant,10,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,1,3,0,0,1,0,0,0,0,1,0,0,0
+is rond,is round,89,4,4,0,0,0,3,4,0,2,0,4,0,0,3,1,0,0,0,4,4,0,0,1,0,4,4,0,0,4,0
+is rood,is red,64,1,1,0,1,0,4,0,1,0,0,0,0,0,0,0,4,0,0,3,4,0,0,0,0,0,4,0,0,0,0
+"is rood, groen of geel","is red, green or yellow",13,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+is sappig,is sappy,32,0,1,0,1,1,0,0,0,0,1,0,0,2,0,0,1,0,1,1,0,0,0,1,1,0,4,0,0,0,0
+is smal,is small,5,0,0,4,0,2,0,0,4,0,0,0,1,1,0,0,0,1,3,0,0,4,1,0,0,0,0,1,0,0,4
+is soort schimmel,is a kind of fungus,5,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+is typisch Belgisch,is typical Belgian,16,4,0,3,0,0,2,1,1,1,0,1,0,0,0,1,0,1,2,1,2,3,1,1,1,2,0,0,4,1,1
+is voedsel,is food,18,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+is voedzaam,is nutritious,19,4,4,3,3,3,4,3,4,4,3,4,3,3,3,4,3,3,3,3,3,3,3,3,3,3,3,3,3,4,4
+is vrij groot,is rather big,20,0,0,0,4,1,1,4,0,0,3,0,0,4,0,0,0,0,2,0,3,0,3,2,0,0,0,0,0,4,0
+is wit,is white,120,3,4,4,1,0,1,4,3,4,2,0,0,1,4,0,0,0,3,3,0,4,1,1,0,0,0,0,4,4,0
+is wit of rood van kleur,is white or red,8,0,3,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,1,0
+is wit vanbinnen,is white inside,15,2,3,4,3,0,2,4,2,3,3,0,0,0,4,0,0,0,3,4,0,4,0,0,0,0,0,0,4,4,0
+je kan het koken of rauw opeten,you can boil it or eat it raw,17,2,4,1,1,1,2,4,2,3,2,1,2,3,2,2,4,2,1,2,3,1,2,3,3,1,4,2,4,4,4
+je kan het zelf kweken,you can cultivate it by yourself,10,4,4,2,2,2,4,4,4,2,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+kan geraspt worden,can be grated,5,2,1,1,1,1,2,0,1,0,1,0,0,2,2,0,0,0,0,1,2,0,0,0,0,0,0,0,0,1,4
+kan in diepvries bewaard worden,can be stored in the freezer,12,4,4,3,3,2,3,4,4,4,4,4,4,2,3,3,4,3,4,3,4,3,4,3,4,4,3,3,3,4,4
+kan je 'afpellen',you can peel it off,11,1,4,1,1,0,0,0,0,0,1,0,0,1,2,0,0,0,2,0,0,0,0,0,0,1,1,0,1,1,1
+kan je heel 't jaar eten,can be eaten whole year long,6,4,4,2,3,4,3,4,4,4,4,4,4,4,4,3,4,4,4,3,3,4,4,4,3,3,4,3,4,4,4
+kan je koken,you can boil it,24,4,2,3,3,2,4,4,3,4,4,4,3,2,2,3,4,2,4,2,4,4,4,2,4,4,3,3,3,4,3
+kan je kopen in de winkel,you can buy it in a shop,22,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+kan je kopen op de markt,you can buy it on the market,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+kan je puree van maken,you can make puree of it,15,4,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,2,1,2,0,0,1,1
+kan je rauw eten,you can eat it raw,34,1,4,0,0,2,2,3,1,3,0,0,2,4,3,2,4,3,2,4,2,0,3,4,2,0,4,3,4,3,4
+kan men bakken,can be baked,10,4,4,2,4,0,2,1,1,4,3,0,0,0,4,1,4,0,4,0,0,0,1,0,0,0,2,0,3,2,3
+kan men koud eten,can be eaten cold,7,4,4,3,1,4,3,4,4,2,1,4,2,4,3,4,4,4,1,4,2,1,3,4,2,0,4,3,4,3,4
+kan op verschillende wijzen bereid worden,can be prepared in several ways,4,4,4,4,4,1,4,4,4,4,4,4,3,3,4,4,4,1,4,3,4,4,4,4,4,4,4,2,4,4,4
+kan verschillende vormen aannemen,can have several shapes,6,4,2,1,1,0,1,1,4,4,0,0,0,1,1,0,1,0,0,0,1,0,0,2,1,0,4,0,1,1,2
+kan warm gegeten worden,can be eaten hot,15,4,4,4,4,2,4,4,4,4,4,4,4,3,4,4,4,1,4,0,4,4,4,1,4,4,4,3,4,4,4
+kan warm of koud gegeten worden,can be eaten hot or cold,8,4,4,2,1,2,2,4,3,3,1,2,2,3,3,3,4,3,0,1,2,1,3,2,2,0,4,1,4,3,4
+kindjes knutselen ermee,children tinker with it,5,3,0,0,0,0,1,0,1,0,1,1,0,1,1,3,1,1,0,1,0,0,0,0,0,0,1,1,0,0,2
+kindjes kwamen vroeger uit een bloemkool,"before, children grew in cauliflower",11,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+kippenvoer,chicken feed,6,1,1,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+klaargemaakt met room,is prepared with cream,5,1,0,3,0,0,0,2,1,4,1,0,0,0,1,0,1,1,2,0,0,2,0,0,4,1,2,0,1,2,0
+klaarmaken met saus,prepare with sauce,7,2,3,3,2,1,2,4,3,4,3,2,1,1,2,2,3,2,4,1,3,4,1,1,1,2,1,1,3,3,2
+kleine bolletjes,little balls,5,0,0,0,0,0,0,0,1,1,0,4,0,0,1,2,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0
+kleine kool,little cabbage,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+kleine stukjes,little pieces,4,2,3,0,1,2,1,0,1,3,1,2,0,1,3,2,3,1,2,0,3,1,2,0,0,0,3,0,1,2,3
+knapperig,crispy,9,1,3,1,0,1,1,3,1,0,0,0,0,2,0,2,4,0,0,4,1,2,2,0,0,1,1,0,3,2,3
+knol,tuber,29,2,2,0,0,0,2,2,0,0,0,0,0,0,1,0,0,0,0,2,1,0,1,0,0,2,0,0,0,3,0
+komt oorspronkelijk van Amerika,is originating from America,9,4,0,0,0,0,0,0,1,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+komt uit bokalen,store in beakers,9,1,1,3,0,4,1,0,3,3,0,2,0,0,1,3,1,0,0,0,3,2,0,0,2,1,1,0,0,1,2
+komt uit de grond,comes out of the ground,5,4,3,3,1,1,4,1,1,2,0,1,1,1,2,1,1,2,4,4,2,3,3,2,2,2,1,2,4,1,4
+krimpen bij het koken,shrink when boiling,4,1,1,0,2,0,0,0,1,4,2,0,1,0,1,0,1,0,2,0,1,0,0,1,2,0,1,0,1,1,2
+krom,bent,7,0,0,0,3,2,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+kunnen geplant worden,can be planted,13,4,3,3,3,3,4,3,3,2,3,3,3,3,4,3,4,3,4,4,3,3,4,4,4,4,4,3,4,4,4
+landbouw,agriculture,4,4,2,1,1,1,4,1,1,1,1,2,1,1,1,3,1,2,2,1,2,2,2,2,2,2,1,1,2,3,3
+lang houdbaar,will keep for a long time,6,4,4,0,0,4,3,1,2,0,0,2,3,1,4,4,0,1,0,2,1,1,1,0,1,3,1,0,1,1,3
+leidt tot slechte adem,causes bad breath,10,0,3,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+lekker,is tastily,119,4,4,4,4,3,1,3,3,4,4,2,3,3,4,3,4,2,4,2,4,4,2,4,4,3,4,3,3,3,4
+lekker koud,cold,4,3,3,1,2,1,1,4,1,1,1,1,0,4,0,2,3,1,0,3,2,0,1,4,0,0,4,3,3,2,4
+lekker met mayonaise,is good with mayonnaise,7,3,1,0,0,0,0,1,1,0,0,1,0,1,2,0,0,1,0,1,0,0,0,4,0,0,2,1,3,0,2
+lekker met vlees,is delicious with meat,5,4,4,3,4,3,3,4,4,4,4,4,2,3,4,4,4,2,4,2,4,4,3,4,4,4,4,3,4,4,4
+lente,spring,4,1,1,2,1,1,0,0,0,1,1,1,1,2,0,1,2,2,1,2,0,0,1,3,1,0,2,3,1,0,2
+ligt zwaar op de maag,is heavy on the stomach,5,2,1,0,0,0,2,2,2,0,0,2,0,1,0,2,1,0,0,0,1,1,1,0,0,2,0,0,0,0,0
+lijkt op ajuin,looks like an onion,6,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+lijkt op asperges,looks like asparagus,6,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0
+lijkt op een komkommer,looks like a cucumber,15,0,0,0,2,2,0,0,0,0,4,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+lookboter,garlic butter,5,1,1,0,0,0,0,0,0,1,0,0,0,0,4,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+maak je klaar met appeltjes,is prepared with apples,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0
+maakt men suiker van,people make sugar of it,13,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+mals om te eten,tender to eat,5,1,1,3,3,2,1,1,3,3,3,3,4,3,2,3,1,1,2,1,2,3,1,4,4,2,3,4,2,1,0
+met aarde,with ground,7,4,2,1,0,0,3,1,0,3,0,0,0,0,2,0,0,0,4,4,2,2,3,3,2,1,1,2,2,1,4
+met een broodje americain,with minced meat,4,0,4,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+met groene kop,with a green head,5,0,1,2,2,3,1,2,3,0,3,2,1,3,0,0,3,2,3,2,0,0,3,3,1,2,3,1,1,0,3
+moet geschild worden,must be peeled,14,4,3,3,2,1,4,1,0,0,1,0,0,0,2,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+niet geliefd bij kinderen,not loved by children,20,0,2,3,2,3,2,1,2,2,2,2,2,0,1,0,1,3,1,3,1,3,3,1,2,4,0,1,4,3,0
+noemt ook eierplant,is also called egg plant,4,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+om te eten,to eat,24,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+past bij worst,is delicious with sausage,8,4,3,1,1,1,1,4,3,2,1,3,0,1,0,1,1,1,3,0,4,3,0,1,4,3,2,0,1,2,4
+peervormig,pear-shaped,5,1,0,0,3,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+persen in lookpers,squeeze garlic,5,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pikt in de ogen,it pricks in the eyes,19,0,4,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+plant,plant,21,4,3,2,3,3,2,2,2,0,3,2,3,3,3,3,3,3,3,2,2,2,2,2,3,3,4,2,2,2,2
+popcorn van maken,make popcorn of it,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Popeye,Popeye,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+potentieverhogend,raises potency,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,4,0,0,0,0,0,0,0,0
+rare vorm,strange shape,9,1,0,0,1,1,0,0,0,2,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+ruikt lekker,smells well,11,1,2,1,1,1,1,2,1,1,1,1,2,1,3,1,2,2,3,1,1,1,2,1,2,1,1,2,1,1,1
+ruikt niet lekker,does not smell well,27,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,2,0,0,1,1,0
+ruikt speciaal,smells special,9,0,3,1,1,1,1,2,2,1,0,0,1,0,4,0,1,1,2,1,1,0,1,0,0,2,0,1,2,0,0
+ruikt sterk,smells strong,6,0,4,1,0,1,1,1,0,0,0,0,1,0,4,0,1,1,3,1,1,0,2,0,0,1,0,0,1,0,0
+ruikt zoet,smells sweet,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,2,0,0,0,0,0,1,0,0,0,2
+ruw oppervlak,rough surface,5,2,1,1,0,3,2,4,1,0,0,1,0,0,1,2,0,0,0,1,1,2,0,0,0,1,0,0,0,1,1
+scherpe smaak,has a sharp taste,7,0,4,2,0,2,1,0,0,0,0,0,0,0,4,0,2,4,3,2,0,0,2,1,1,2,0,3,3,0,0
+smaakt flauw,tastes bland,29,2,0,0,1,1,1,0,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0
+smaakt fris,tastes fresh,5,0,3,1,0,3,0,2,0,1,1,0,0,4,1,0,4,1,1,3,0,0,1,3,1,0,4,2,1,1,3
+smaakt lekker bij kaas,is delicious with chees,4,1,1,1,1,1,0,2,0,1,1,0,0,1,1,0,1,1,1,0,0,1,0,1,0,1,3,2,1,1,2
+smaakt lekker met zout,tastes good with salt,7,3,0,0,1,0,0,1,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,2,1
+smaakt straf,tastes strong,11,0,3,0,0,1,1,1,1,0,0,0,1,0,4,0,2,3,3,1,0,0,2,0,1,0,0,2,2,0,0
+smaakt zacht,tastes soft,6,3,1,3,3,0,0,3,1,3,3,2,1,4,0,3,1,1,2,1,1,2,0,4,3,1,3,1,1,2,4
+smaakt zoet,tastes sweet,31,1,0,0,0,0,1,0,0,0,1,1,0,0,0,3,2,0,0,0,2,0,0,0,0,0,1,0,0,1,2
+smaakt zuur,is sour,23,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0
+stam,stem,6,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,1,0,1,0,2,0,1,1,0,0,0,0,1,1,0
+struik,bush,5,0,0,0,2,2,0,0,2,0,2,2,0,2,1,3,4,0,0,0,0,0,0,0,1,2,3,0,0,0,0
+suiker toevoegen,add sugar,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,1
+te koop,for sale,6,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+uitdrukking,expression,4,0,3,0,0,0,0,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,1
+vaak in blik verkocht,is often sold in cans,12,1,0,2,0,3,1,0,4,4,0,4,0,0,1,4,1,0,0,0,3,2,0,0,2,1,3,0,0,1,2
+vaak op pizza's,often on pizza,11,0,4,1,1,0,0,0,0,4,0,0,0,0,4,1,4,0,0,0,0,0,0,0,2,0,4,0,0,0,0
+vaak samen met kaassaus,often together with cheese sauce,10,1,0,1,0,0,0,3,0,1,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,4,1,0
+vanbuiten donker roze,dark pink outside,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0
+veel gebruikt ingrediënt,often used,4,4,4,0,1,0,0,1,1,3,1,1,0,2,4,1,3,2,1,0,1,0,1,2,1,0,4,1,1,2,3
+veel kleurstof,a lot of colour,6,0,0,0,1,0,3,0,0,0,0,0,1,0,0,1,3,1,0,1,3,0,0,0,2,0,1,0,0,0,1
+veel kuiswerk,a lot of cleaning,20,1,0,2,0,0,1,3,3,1,0,1,0,0,0,3,2,0,3,1,3,2,3,4,3,3,0,1,1,2,0
+veel mensen lusten dit niet,many people do not like it,6,0,1,1,1,3,4,1,2,3,0,1,1,0,1,1,0,1,0,3,1,2,2,0,1,4,0,1,4,1,0
+veevoeder,feed,12,2,1,0,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,1,0,0,0,1
+vers,fresh,5,4,4,4,4,2,4,4,4,4,4,4,4,4,3,3,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4
+verschillende teentjes,several cloves,13,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+vezelig,fibrous,4,1,0,3,0,0,0,0,3,0,0,1,1,0,2,0,0,0,2,0,0,0,3,1,1,0,0,0,0,0,0
+vies,nasty,7,0,0,0,0,0,2,1,1,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0
+Vlaamse kost,is a flemish dish,4,4,2,3,0,0,2,3,3,1,0,3,1,0,0,1,0,0,3,1,3,3,2,2,3,3,1,1,4,2,3
+voor paard Sinterklaas,for the horse of St Nicholas,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+voortplantingsfunctie,reproduce,4,1,1,0,0,0,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,0,1,0,1,1,2,1,1,1,1
+vormt de basis voor heel wat sauzen,is the basis for a lot of sauces,9,0,3,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0
+vruchtvlees,flesh of the fruit,7,1,1,0,2,2,1,0,0,0,2,0,0,2,1,1,2,0,1,0,0,1,0,0,0,0,3,1,0,0,0
+weegt zwaar,is heavy,6,1,1,0,1,0,3,4,0,0,2,0,0,3,0,0,0,0,0,0,4,0,0,0,0,0,1,0,0,4,0
+weinig calorieën,little calories,5,1,4,3,3,3,2,2,2,3,3,2,3,4,4,2,4,4,4,3,2,2,4,4,4,2,4,4,4,4,4
+werd vooral vroeger gegeten,people used to eat it in the past,4,2,1,0,0,0,4,1,1,0,0,1,0,0,0,2,0,0,2,2,0,3,0,2,0,1,1,0,0,1,0
+word je sterk van  ,makes you strong,13,0,1,0,0,0,1,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,4,1,0,1,0,0,0
+word je winderig van,makes you windy,9,0,4,0,0,0,0,0,4,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0
+worden vaak verkocht in bakjes,are often sold in small boxes,6,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+wordt als garnituur gebruikt,is used as garnishing,25,0,3,0,0,3,1,1,1,0,0,1,1,3,1,3,2,4,0,2,2,0,0,3,1,0,3,2,2,2,4
+wordt gebruikt in de keuken,is used in the kitchen,25,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+wordt gebruikt in salade,is used in salads,28,3,4,2,0,2,1,1,2,3,0,1,0,4,2,4,4,2,0,3,2,0,1,4,2,0,4,3,2,2,4
+wordt gedroogd,is dried,4,0,3,0,0,0,0,0,0,1,0,0,1,0,3,2,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+wordt gegeten,is eaten,22,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+wordt gegeten bij barbecue,is eaten by a barbecue,7,4,4,0,0,2,0,3,2,4,0,1,0,4,4,3,4,1,0,0,1,0,0,4,0,0,4,2,2,1,4
+wordt gegeten door dieren,is eaten by animals,6,4,2,2,2,2,4,2,2,2,2,3,2,2,2,4,2,2,2,2,2,2,2,4,2,2,2,2,2,2,3
+wordt gegeten in een koude schotel,is eaten in cold dishes,15,3,3,3,0,3,2,4,2,0,0,3,0,4,1,4,4,2,0,2,1,0,0,4,1,0,4,2,3,1,4
+wordt gekookt,is boiled,27,4,2,3,3,1,4,4,3,3,4,4,4,1,2,3,3,1,4,1,4,4,3,0,3,4,2,1,2,4,3
+wordt gekweekt,is cultivated,12,3,3,4,4,4,3,3,3,4,4,3,3,4,4,3,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4
+wordt geoogst,is harvested,12,4,4,2,2,2,4,3,3,2,2,3,3,2,2,3,2,3,2,2,2,2,2,3,2,2,3,2,2,3,3
+wordt gestoofd,is stewed,13,0,4,1,1,0,1,1,3,4,3,2,0,0,2,0,3,0,3,0,3,2,2,0,3,2,1,0,4,2,3
+wordt geteeld,is cultivated,8,4,3,2,1,2,3,2,2,1,1,2,1,2,1,3,1,1,2,1,2,2,2,2,1,2,2,1,2,3,3
+wordt geteeld door boeren,is cultivated by farmers,19,4,3,2,1,1,4,3,2,1,2,2,1,2,0,4,1,1,3,2,4,2,2,3,2,2,2,1,3,3,4
+wordt gezaaid,is sowed,12,3,2,2,3,3,2,2,4,2,3,3,3,3,2,4,3,3,2,3,2,2,3,4,4,2,2,3,2,3,3
+wordt in bussels verkocht,is sold in fascicles,14,0,0,4,0,0,1,0,0,0,0,0,2,0,1,0,0,4,4,2,0,1,2,0,0,0,0,1,0,0,3
+wordt in veel gerechten gebruikt,is used in many dishes,23,4,4,1,1,0,0,1,1,4,2,1,1,1,4,1,2,3,2,0,0,0,1,2,1,0,4,1,1,0,3
+wordt met frieten gegeten,is eaten with chips,16,0,1,0,0,1,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,4,0,0,4,1,2,0,2
+wordt op hamburgers gedaan,is put on hamburgers,5,0,4,0,0,3,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,3,0,0,3,1,0,0,0
+wordt op water gekweekt,is cultivated on water,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0
+wordt samen met erwtjes gegeten,is eaten with peas,7,1,1,0,0,0,0,0,0,1,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,4
+wordt snel slecht,decays fast,11,0,0,3,2,0,0,1,0,3,1,1,1,1,0,0,2,2,3,1,0,1,2,4,4,1,2,4,3,2,1
+wordt vaak bereid met hesp,is often prepared with ham,11,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,4,0,0
+wordt vaak met Brussel geassocieerd,is often associated with Brussels,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,0,0
+wordt verkocht op de veiling,is sold at auction rooms,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3
+wordt vooral in de winter gegeten,is mainly eaten in the winter,19,0,0,0,0,0,1,3,1,0,0,2,1,0,0,0,0,0,0,0,4,1,0,0,2,4,0,0,3,4,1
+zacht,soft,12,0,0,1,3,2,0,0,2,3,3,1,3,3,0,0,2,2,1,0,0,1,1,3,3,1,3,3,1,0,0
+zijn duur,is expensive,9,0,0,4,3,1,1,2,1,3,2,1,1,1,0,1,3,2,2,3,2,3,1,1,2,2,3,2,3,2,1
+zijn korreltjes op een kolf,are grains on the cob,11,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+zijn paddestoelen,are mushrooms,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+zijn soms giftig,are sometimes poisonous,8,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+zit in potten,is stored in pots,7,2,2,3,0,4,2,0,4,4,0,4,1,0,1,3,1,0,1,0,4,4,1,0,1,1,3,0,0,1,3
+zitten in een peul,are in a pod,6,0,0,0,0,0,0,0,2,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+zitten zaadjes in,contains seeds,17,0,0,0,3,2,0,0,2,0,4,0,0,4,0,1,4,0,0,0,0,0,0,0,0,0,4,0,0,0,0
+zuiders,southern,7,1,1,0,4,2,0,0,0,2,3,0,0,1,4,1,4,0,0,0,0,0,0,0,0,0,3,0,0,0,0

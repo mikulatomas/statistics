@@ -1,0 +1,32 @@
+,,generation frequency,mean rank position,exemplar strength,category strength
+acteur,actor,2,6.50,0.004,0.037
+advocaat,lawyer,33,3.39,0.011,0.010
+apotheker,pharmacist,6,3.67,0.000,0.000
+archeoloog,archaeologist,1,5.00,0.000,0.000
+architect,architect,5,4.40,0.011,0.003
+bakker,baker,31,4.00,0.000,0.013
+boekhouder,accountant,4,3.00,0.007,0.003
+brandweerman,fireman,6,4.67,0.004,0.000
+dierenarts,veterinarian,2,4.50,0.011,0.000
+directeur,manager,7,5.14,0.000,0.000
+dokter,doctor,56,3.07,0.000,0.020
+informaticus,information scientist,5,5.60,0.008,0.000
+kinesist,physiotherapist,8,3.38,0.007,0.000
+kok,cook,8,2.50,0.011,0.000
+leraar,teacher,44,3.59,0.004,0.023
+loodgieter,plumber,5,5.00,0.026,0.003
+marktkramer,stallholder,1,6.00,0.000,0.000
+minister,minister,4,3.00,0.000,0.000
+opvoedster,educator,5,4.00,0.000,0.000
+piloot,pilot,8,2.63,0.007,0.000
+politieagent,police officer,7,4.33,0.000,0.003
+postbode,postman,5,3.60,0.000,0.000
+psycholoog,psychologist,85,2.67,0.015,0.007
+rechter,judge,7,5.57,0.007,0.000
+secretaresse,secretary,10,4.80,0.000,0.003
+slager,butcher,17,4.94,0.000,0.000
+stewardess,stewardess,2,2.00,0.000,0.003
+tandarts,dentist,23,3.22,0.004,0.007
+vuilnisman,garbage collector,9,4.89,0.000,0.000
+winkelbediende,shop-assistant,9,4.22,0.000,0.000
+,,,,,

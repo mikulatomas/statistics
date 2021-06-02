@@ -1,0 +1,39 @@
+,feature/ exemplar ENGLISH,,anvil,chisel,axe,drill,crowbar,adjustable spanner,lawn mower,hammer,clamp,pickaxe,crowbar,wheelbarrow,knife,wrench,oil can,filling knife,plough,plane,shovel,screwdriver,grinding disc,nail,wire brush,vacuum cleaner,tongs,rope,paint brush,file,level,saw
+feature / exemplar DUTCH,,freq,aambeeld,beitel,bijl,boormachine,breekijzer,engelsesleutel,grasmachine,hamer,houtklem,houweel,koevoet,kruiwagen,mes,moersleutel,oliespuit,plamuurmes,ploeg,schaaf,schop,schroevendraaier,slijpschijf,spijker,staalborstel,stofzuiger,tang,touw,verfborstel,vijl,waterpas,zaag
+bestaat in verschillende soorten,exists in different kinds,5,0,0,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1
+dient om mee te werken,used to work with,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+eventueel geautomatiseerd,can be automatized,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1
+gebruikt in de bouw,used in construction,3,0,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1,1,1,1,1
+gemaakt uit hout,made of wood,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+gemaakt uit metaal,made of metal,6,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,0,1
+heeft een handvat,has a grip,2,0,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,0,1,1,0,1
+heeft een technische evolutie doorgemaakt,has gone through a technological revolution,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+is duur,is expensive,4,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+is een handwerktuig,is a handtool,3,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1
+is gereedschap,is a tool,3,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1
+is groot,is big,2,0,0,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1
+is handig,comes in very handy,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+is multifunctioneel,is multifunctional,2,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,1,0,0,1,1,0,0,0,0,1,1,0,0,0,0
+je kan er iemand mee verwonden,you can injure someone with it,2,0,1,1,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1,1,1,0,1,1,0,1,0,1
+maakt lawaai,produces noise,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+werd al gebruikt in de oertijd,was used in early ages,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bestaat in verschillende groottes,exists in different sizes,9,1,1,1,1,0,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1
+bestaat in verschillende vormen,exists in different forms,8,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,1,1,0,1,0,0,1
+is bedoeld voor de handige harry,is meant for people who are handy,4,0,1,0,1,0,1,0,1,0,0,0,0,0,1,1,1,0,1,0,1,1,1,0,0,1,0,1,1,1,1
+is een goede uitvinding,is a good invention,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+is een hamer,is a hammer,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+is een hulpmiddel,is an aid,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+is een kraan,is a crane,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+is een tractor,is a tractor,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+is een verzamelnaam,is a collective noun,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+is elektronisch,is electronic,8,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+is er in verschillende materialen,comes in different materials,2,0,1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,1,1,1,1,0,1,0
+is onmisbaar,is indispensable,2,0,0,0,1,0,1,1,1,0,0,0,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,0,0,1
+kan gevaarlijk zijn,can be dangerous,8,0,0,1,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+vergemakkelijkt het werk  ,makes work easier,9,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+wordt bestuurd,is operated,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+wordt gebruikt door een vakman,is used by a professional,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+wordt gebruikt door iedereen,used by everybody,2,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1
+wordt gebruikt om iets te maken,is used to make something with,6,1,1,0,1,0,1,0,1,1,0,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0,1,1,1,1
+wordt gebruikt om mee te werken,is used to work with,6,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+wordt vooral door mannen gebruikt,is primarily used by men,10,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1

@@ -1,0 +1,32 @@
+,,generation frequency,mean rank position,exemplar strength,category strength
+aap,monkey,42,3.547619048,0.007,0.074
+bever,beaver,1,10,0.000,0.000
+bizon,bison,1,6,0.007,0.000
+dromedaris,dromedary,1,8,0.004,0.000
+eekhoorn,squirrel,2,7,0.000,0.000
+egel,hedgehog,2,7.5,0.004,0.000
+ezel,donkey,20,6.95,0.008,0.000
+giraf,giraffe,30,6.733333333,0.007,0.011
+hamster,hamster,4,8.25,0.004,0.004
+hert,deer,12,7,0.000,0.000
+hond,dog,107,3.775700935,0.000,0.078
+ijsbeer,polar bear,4,6,0.000,0.000
+kangoeroe,kangaroo,9,6.555555556,0.000,0.004
+kat,cat,103,4.378640777,0.007,0.052
+koe,cow,66,4.606060606,0.000,0.033
+konijn,rabbit,20,5.7,0.000,0.004
+lama,llama,1,11,0.000,0.000
+leeuw,lion,36,5.777777778,0.000,0.000
+muis,mouse,32,6.375,0.000,0.000
+neushoorn,rhinoceros,9,7.888888889,0.004,0.000
+nijlpaard,hippopotamus,6,6,0.004,0.000
+olifant,elephant,43,4.23255814,0.011,0.015
+paard,horse,86,4.581395349,0.007,0.033
+schaap,sheep,21,6.285714286,0.004,0.007
+tijger,tiger,19,6.684210526,0.000,0.011
+varken,pig,35,6.314285714,0.000,0.007
+vleermuis,bat,3,8.666666667,0.007,0.000
+vos,fox,3,5.666666667,0.000,0.004
+wolf,wolf,5,6,0.004,0.000
+zebra,zebra,6,7.833333333,0.011,0.000
+,,,,,

@@ -1,0 +1,247 @@
+,feature/ exemplar ENGLISH,,bee ,leech,horsefly,centipede,fruit fly,bumblebee,cockroach,beetle,cricket,dragonfly,ladybug,louse,cockchafer,ant,moth,mosquito,earwig,wood louse,caterpillar,spider,grasshopper,fly,butterfly,flee,wasp,worm
+feature / exemplar DUTCH,,freq,bij,bloedzuiger,daas,duizendpoot,fruitvlieg,hommel,kakkerlak,kever,krekel,libel,lieveheerbeestje,luis,meikever,mier,mot,mug,oorworm,pissebed,rups,spin,sprinkhaan,vlieg,vlinder,vlo,wesp,worm
+aarde,is found in earth,4,0,0,0,2,0,1,1,2,0,0,1,1,1,2,1,1,1,2,0,0,0,0,0,1,0,3
+aaseter,is a scavenging animal,5,1,1,0,1,0,2,0,1,0,0,2,0,0,2,1,1,1,2,1,1,0,0,0,1,1,2
+andere naam: drosophilla,has other name: drosophila,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+beweegt door zich samen te trekken,moves by contracting,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,1,0,2
+bij dieren,is found on animals,9,0,2,2,1,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,1,0,3,0,3,0,0
+bijt,bites,20,0,2,1,0,0,0,0,0,0,1,0,3,0,1,1,1,0,1,0,4,0,2,0,2,1,0
+bijt gaten in kleren,makes holes in clothing,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0
+bouwt nesten,builds nests,10,2,0,1,1,0,2,1,1,1,1,1,2,1,2,1,1,1,2,0,1,1,1,2,1,3,0
+brengt ziektes voort,carries over diseases,9,0,1,1,0,1,0,2,1,0,0,0,1,0,2,0,2,1,1,1,1,1,4,0,0,0,0
+bruin/zwart van kleur,is brown/black,11,1,3,4,2,3,1,3,3,0,1,0,2,2,3,1,1,1,2,0,3,0,3,0,3,1,2
+doet pijn,gives pain,26,4,3,3,1,0,2,0,1,0,1,0,1,0,1,0,2,0,0,0,1,0,1,1,1,4,0
+een handig iemand,skilful person,4,1,1,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+een imker kweekt ze,raised by bee-keeper,9,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+eet bladluizen,eats plant lice,5,0,0,0,0,0,0,1,0,2,0,3,0,0,0,0,1,1,0,2,0,1,0,0,0,1,0
+eet insecten,eats insects,17,1,1,1,2,1,1,2,2,2,2,3,1,2,3,1,1,2,2,2,3,2,2,1,1,2,1
+eet nectar,eats nectar,9,3,0,0,1,0,3,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,3,0,2,0
+eet planten,eats plants,33,2,1,1,2,4,2,4,4,4,1,3,2,3,1,2,2,4,3,4,1,3,1,3,1,1,3
+eet van de bloemen,eats from flowers,5,3,0,0,1,0,3,0,1,1,1,0,0,0,0,0,1,1,0,0,0,1,0,2,0,2,0
+eet vliegen,eats flies,4,0,0,0,1,0,0,1,1,1,1,0,0,1,0,0,0,1,1,2,3,1,0,0,0,1,0
+er is een koningin,has queen,14,3,0,0,0,0,1,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,1,0,3,0
+extern geraamte,external skeleton,4,0,0,0,0,1,1,1,1,2,1,2,0,1,1,1,1,1,1,1,0,1,0,0,0,1,0
+familie van de wesp,related to wasp,4,3,0,1,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+fladdert,flutters,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,0,0,0
+gaat van bloem tot bloem,goes from flower to flower,5,3,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,2,0
+gebruikt stuifmeel van bloemen,uses pollen from flowers,9,3,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0
+gebruikt voor onderzoek,used in research,8,0,0,1,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,2,0,1,0,0,1,2
+geel,yellow,10,3,0,0,1,0,3,0,1,0,0,1,0,0,0,0,0,1,0,1,1,1,0,3,0,4,0
+geel en zwart,is yellow and black,43,3,0,0,1,0,3,0,1,0,0,1,0,0,0,0,0,0,0,2,1,0,0,1,0,4,0
+gekleurd,is coloured,4,4,1,1,3,1,4,2,3,3,3,4,1,2,2,1,1,1,1,4,3,3,1,4,1,4,0
+gelede diersoort,is an articulate animal,6,3,3,3,4,2,2,3,2,3,3,2,2,2,4,2,0,2,3,2,2,2,2,2,2,3,1
+geleedpotig,is athrodopal,8,2,2,2,4,2,2,2,3,3,2,2,2,2,3,2,0,1,2,2,2,2,2,2,1,1,0
+geliefd bij kinderen,is popular among children,4,0,0,0,1,0,0,0,1,2,1,3,0,2,0,0,0,1,0,4,0,2,0,3,0,0,2
+geraakt moeilijk van je af,is difficult to remove from one's body,4,0,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3,1,1
+goed voor bodem,is good for soil,5,0,1,0,1,0,1,0,1,0,0,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,3
+goed voor milieu,is good for the environment,7,3,2,2,3,3,3,2,3,3,3,4,2,3,3,2,2,2,3,4,3,2,2,2,2,2,2
+grijs,is grey,16,0,1,1,1,0,0,1,1,1,1,0,2,1,1,2,4,0,1,0,2,0,1,0,2,0,1
+haalt nectar uit bloemen,extracts nectar from flowers,10,3,0,0,1,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,2,0,2,0
+hard,hard,6,0,0,0,1,1,1,2,3,1,0,3,0,3,1,0,0,1,1,0,0,0,0,0,0,0,0
+harig,hairy,24,2,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,1,1,2,3,0,1,1,0,1,0
+hecht zich vast aan het lichaam,attaches to the body,18,0,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+heeft 2 ogen,has two eyes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,3
+heeft acht poten,has eight paws,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0
+heeft een angel,has a sting,27,4,0,2,1,0,2,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,4,0
+heeft een kop,has a head,5,4,4,4,4,4,4,4,4,3,3,4,4,4,4,4,3,3,4,4,4,4,4,4,3,4,3
+heeft een schild,has a shield,30,0,0,0,2,1,1,2,3,2,0,4,1,3,1,1,1,2,2,1,0,1,0,0,0,0,0
+heeft een slurf,has a trunk,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+heeft facetogen,compound eyes,14,3,0,3,1,2,3,1,2,1,2,2,0,1,2,0,1,0,0,1,2,1,3,0,1,4,0
+heeft felle kleuren,has bright colours,4,2,0,0,0,0,3,0,3,0,2,2,0,0,0,0,0,1,0,2,1,2,0,3,0,3,0
+heeft geen 1000  poten,doesn't have 1000 paws,5,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,3,4,4,4,4,4
+heeft geen poten,has no paws,11,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,4
+heeft hiërarchie,has hierarchy,5,3,0,0,0,0,1,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,1,0,4,0
+heeft kleine pootjes,has small paws,4,3,2,3,4,3,3,4,3,3,1,3,4,3,4,3,3,4,4,4,1,1,3,3,2,2,0
+heeft lange achterpoten,has long hind legs,4,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,1,0,0,1,1,4,0,0,0,0,0
+heeft lange poten,has long paws,14,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,1,1,3,3,0,1,0,0,0
+heeft poten,has legs,29,4,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,3,4,0
+heeft twee vleugels,has two wings,13,3,0,4,1,3,2,0,2,2,1,2,0,3,1,2,3,0,0,0,1,2,3,3,0,2,0
+heeft veel poten,has many paws,30,1,1,1,4,1,1,1,1,1,1,1,1,1,1,1,1,0,2,2,3,1,1,1,0,0,0
+heeft vele kleuren,has many colours,25,0,0,0,0,0,1,0,2,0,1,0,0,0,0,0,0,1,0,1,1,1,0,3,0,0,0
+heeft vier poten,has four paws,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0
+heeft vleugels,has wings,103,4,0,4,1,3,4,1,3,2,3,4,1,3,1,3,3,0,0,0,1,2,3,4,2,4,0
+heeft voelsprieten,has feelers,54,3,1,2,3,1,3,4,3,3,3,4,3,3,3,3,3,4,2,3,0,4,0,3,1,4,1
+het heeft ringen,has ribs,8,1,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,1,0,1,2
+het is rond,is round,7,0,0,1,1,0,3,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+het is zeer actief,is very active,8,2,1,0,1,1,2,0,1,1,1,0,2,0,3,0,0,0,0,1,2,1,0,1,0,3,0
+het laat plekken achter op je huid,leaves stains on one's skin,4,3,2,2,2,0,1,0,1,0,0,0,2,0,2,1,2,0,1,0,2,0,1,2,1,2,0
+houdt van vochtigheid,likes humidity,4,0,2,1,2,1,0,2,2,1,1,0,0,0,1,1,1,2,2,0,1,1,0,0,1,0,3
+is akelig,is grisly,8,2,4,2,2,1,1,3,1,1,1,0,2,1,1,2,2,2,3,1,3,1,0,1,3,1,1
+is bruin,is brown,35,1,3,1,3,2,1,3,1,1,2,0,2,4,2,1,1,3,2,1,1,0,1,0,1,0,3
+is dik,is thik,9,0,0,0,1,0,4,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+is donker van kleur,dark colour,14,1,4,4,2,3,2,3,3,1,2,1,4,4,4,3,2,3,4,1,4,1,4,0,3,0,3
+is een dier,is an animal,69,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+is een insect,is an insect,282,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3
+is een soort bij,is a type of bee,14,2,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0
+is een soort kever,is a type of beetle,8,0,0,0,0,1,1,2,2,0,0,2,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+is een soort vlieg,is a type of fly,4,1,0,2,0,3,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,0,1,0
+is een soort vlinder,is a type of butterfly,14,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,1,0,2,0,0,0
+is eerst een rups,is initially a caterpillar ,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,0,0,0
+is geen huisdier,is not a pet,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+is gek op zoetigheid,adores sweetness,23,3,0,2,0,2,3,0,0,0,0,0,1,1,2,0,0,0,0,0,1,0,2,1,0,3,0
+is giftig,is poisonous,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0
+is groen,is green,33,0,2,0,0,0,1,1,3,3,2,1,0,0,0,0,0,1,0,3,0,3,0,1,0,0,0
+is groen-bruin,is green-brown,8,0,2,0,0,1,0,1,2,2,3,1,0,0,0,0,0,1,0,3,1,3,0,1,0,0,0
+is groot,is big,22,1,1,0,0,0,1,0,1,0,2,0,0,1,0,1,0,0,0,1,1,1,0,1,0,0,1
+is irritant,is irritating,45,3,3,4,2,3,3,3,3,1,3,0,4,2,2,2,3,2,2,1,3,1,4,1,3,4,2
+is klein,is small,235,3,3,3,3,4,3,3,3,3,2,4,4,3,4,3,4,3,4,3,3,3,4,3,4,3,3
+is lang,is long,20,0,2,0,1,0,0,0,1,0,3,0,0,0,0,0,0,0,0,3,0,1,0,0,1,0,4
+is langwerpig,is elongated,9,2,3,2,4,2,1,3,2,2,3,1,3,1,2,2,2,3,2,4,1,1,1,1,2,2,4
+is lelijk,is ugly,13,2,4,3,2,2,2,3,2,1,2,0,1,2,3,3,3,2,4,1,4,2,2,0,4,1,3
+is licht,is light,6,4,3,4,4,4,3,3,3,4,4,4,4,3,4,3,4,4,4,3,3,4,4,4,4,3,3
+is lief,is sweet ,4,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,1,0,2,0,2,1,1,0,0,0
+is mooi,is beautiful,16,0,0,0,0,0,0,0,2,1,2,4,0,2,0,0,0,1,0,3,0,2,0,3,0,0,0
+is niet gevaarlijk,is not dangerous,13,1,1,2,2,4,2,4,3,4,3,4,3,4,2,4,2,4,3,3,1,3,4,2,3,0,4
+is oorzaak van arachnofobie,is cause for arachnophobia,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0
+"is rood, bruin","is red, brown",8,0,0,1,3,0,0,2,2,1,1,2,0,0,1,0,0,2,0,1,1,0,0,1,1,0,1
+is schattig,is cute,10,0,0,0,0,0,0,0,0,1,0,3,0,1,0,0,0,1,0,1,0,2,0,2,0,0,0
+is seizoensgebonden,is seasonal,4,4,1,3,2,3,4,1,2,3,3,3,1,4,1,1,3,2,1,3,2,2,1,4,1,3,0
+is smal,is small,8,1,1,1,2,0,0,0,1,1,2,0,3,0,2,1,0,2,2,1,1,1,0,1,2,2,4
+is sterk,is strong,6,2,1,1,0,0,2,1,2,0,1,0,0,1,3,0,0,0,0,0,1,0,1,0,0,2,0
+is terug te vinden op planten,is found on plants,15,3,1,2,1,1,4,0,4,4,2,3,1,3,3,0,0,3,3,4,1,4,1,3,0,3,1
+is traag,is slow,8,0,1,1,3,0,0,0,0,0,1,1,1,0,1,0,1,1,0,3,0,0,0,0,1,0,3
+is tweeslachtig,is hermaphrodite,7,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,3
+is vies,is nasty,61,2,4,3,3,2,2,3,2,1,3,1,3,2,2,3,2,3,4,1,4,1,3,1,4,2,3
+is wit,is white,4,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+je kan ze doden met een vliegenmepper,can be killed with a fly swatter,6,4,0,2,3,3,3,1,0,0,2,1,0,1,2,2,3,0,1,1,3,1,3,3,0,4,0
+je kunt er beten van hebben,leaves stings,10,1,2,1,1,0,1,0,0,0,2,0,2,0,1,0,2,0,1,0,3,0,1,1,1,1,0
+je vindt ze in huis,you can find them in homes,10,1,0,1,2,4,0,2,2,0,1,1,4,1,4,3,3,1,3,0,4,0,4,1,2,1,0
+je vindt ze vaak onder stenen,is often found under rocks,8,0,1,0,1,0,1,1,1,0,0,0,1,0,2,1,1,2,4,0,0,0,0,0,1,0,3
+kan agressief zijn,can be aggressive,7,3,0,3,1,0,3,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,4,0
+kan gevaarlijk zijn,can be dangerous,14,3,3,2,2,0,2,0,1,0,1,0,0,0,2,0,2,0,1,1,3,0,0,1,0,4,0
+kan giftig zijn,can be poisonous,17,1,1,0,2,0,0,0,1,0,1,0,0,0,2,0,0,0,1,1,3,0,0,1,0,1,0
+kan je vangen,can be caught,5,3,3,3,3,3,3,3,3,2,3,4,2,3,3,3,3,3,4,4,4,4,3,4,2,3,4
+kan nadelig zijn voor de oogst,can be disadvantageous to harvest,5,0,0,0,0,2,1,3,2,1,0,0,0,1,0,0,0,2,1,2,0,2,0,0,0,0,1
+kan niet vliegen,can't fly,4,0,4,0,3,1,1,4,1,3,1,0,4,1,3,1,1,4,4,4,3,2,1,0,3,0,4
+kan overgedragen worden,transferable,18,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,1,0,3,0,0
+kan plaag vormen,can become pest,10,2,0,1,0,2,3,4,2,1,0,1,2,1,1,1,2,1,3,2,3,3,2,1,3,4,0
+kan snel lopen,runs fast,23,0,1,0,2,1,1,1,2,0,0,1,1,0,2,1,0,1,3,0,3,0,0,0,0,0,0
+kan soms dodelijk zijn voor mens,can be lethal to man,4,3,1,1,0,0,2,0,0,0,0,0,0,0,1,0,2,0,1,0,3,0,0,1,0,4,0
+kan veel last veroorzaken,can cause much hinder,11,3,3,3,0,3,4,3,1,0,1,0,4,1,3,3,3,1,3,1,3,1,4,1,4,4,0
+kan ver springen,can jump far,42,0,0,0,0,0,0,1,0,3,0,0,2,0,0,0,0,0,0,1,0,3,1,0,1,0,0
+kan verschillende kleuren hebben,can have different colors,5,1,0,0,1,0,1,0,3,0,2,1,0,0,0,0,0,1,0,2,1,2,0,3,0,0,0
+kan vliegen,can fly,129,4,0,4,1,3,4,1,3,1,3,4,0,3,1,3,3,0,0,0,1,2,3,4,2,4,0
+kietelt,tickles,14,2,2,2,1,2,3,1,1,2,2,2,3,1,4,2,3,2,2,4,4,2,4,1,2,2,1
+kinderen vangen deze graag,children like to catch them,4,0,0,0,1,0,0,0,1,1,0,3,0,2,0,0,1,1,1,4,1,3,1,3,0,0,2
+komen soms voor in films,occasionally occurs in films,6,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,3,0,1,2,0,2,0
+komt af op licht,comes up to light,20,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,3,0,0,0,1,1,1,0,0,0,0
+komt boven als het regent,comes to the surface when it rains,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,4
+komt in verschillende maten en soorten voor,exists in different sizes and kinds,49,2,2,1,1,1,2,1,2,3,4,0,1,0,3,1,3,2,1,4,3,2,3,3,1,2,4
+komt overal ter wereld voor,is found all around the world,5,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,2,1,1,1,1,1,2,1,1,2,2
+komt uit een cocon,comes out of a cocoon,13,1,0,1,0,0,1,0,1,1,1,1,0,1,0,2,0,0,0,1,0,1,0,3,0,1,0
+komt veel voor,occurs frequently,4,3,3,4,3,4,4,4,2,4,3,2,4,1,4,4,3,3,4,4,4,3,3,4,4,4,3
+komt voor bij honden en katten,is found on dogs and cats,4,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,3,0,0
+komt voor in belgië,is found in Belgium,5,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+komt voor in de tuin,is found in the garden,7,4,1,2,4,4,4,3,4,4,3,4,2,3,3,2,3,4,4,4,4,4,3,4,2,4,4
+komt voor in warme plaatsen,is found in warm places,8,2,1,2,0,2,2,0,0,1,2,1,0,1,0,1,1,1,0,1,2,1,2,1,1,3,1
+kraakt als je het dood doet,creaks when killed,14,2,1,2,3,2,3,4,3,3,2,4,0,4,1,2,0,3,4,2,1,3,1,2,0,2,0
+kruipt,crawls,38,0,4,0,3,1,1,4,3,3,1,3,3,2,3,1,1,4,4,3,3,2,0,0,2,1,4
+kwetsbaar,fragile,7,2,3,2,2,4,2,2,2,2,3,4,3,4,2,2,3,2,2,4,2,2,2,4,2,2,2
+leeft bij water,lives nearby the water,31,1,2,1,0,0,0,1,1,2,3,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1
+leeft buitenshuis,lives outdoors,7,3,3,3,3,3,3,3,3,3,3,3,4,3,3,2,3,3,3,3,3,3,3,3,2,2,3
+leeft door als je hem in twee snijdt,lives on when split in half,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4
+leeft in bomen,lives in trees,6,0,0,0,1,0,0,0,1,0,0,1,2,0,2,0,0,1,1,2,1,0,0,0,0,2,1
+leeft in de natuur,lives in nature,18,4,4,4,4,3,4,4,4,4,4,4,3,4,4,3,4,4,4,4,4,4,3,4,4,4,4
+leeft in een korf,lives in a hive,9,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+leeft in grassen,lives in grass,32,0,3,1,3,1,1,2,4,4,0,4,1,4,3,1,1,2,1,4,2,4,0,0,1,0,1
+leeft in groep,herds,43,3,1,1,1,2,3,4,3,2,2,1,4,1,3,1,1,2,3,1,0,2,1,1,2,2,1
+leeft in het bos,lives in the woods,19,2,3,3,4,2,2,3,4,2,2,3,2,3,4,3,3,4,3,3,4,3,2,3,2,2,3
+leeft in het donker,lives in the dark,6,0,2,1,2,1,0,2,2,0,0,0,0,1,0,2,1,2,3,0,1,0,0,0,1,0,4
+leeft in nesten,lives in nests,6,2,0,0,0,0,1,0,0,0,0,0,1,0,3,0,0,0,2,0,1,0,0,1,0,4,0
+leeft in onhygiënische buurten,lives in unhygienic places,12,0,3,2,1,3,1,3,1,0,1,0,4,0,1,1,1,1,3,0,0,0,2,0,2,0,1
+leeft in velden,lives in fields,6,2,1,3,3,3,3,1,4,4,1,3,1,3,4,1,3,3,1,3,2,4,3,3,2,2,3
+leeft in warme landen,lives in warm countries,6,4,1,2,2,1,3,0,1,1,3,2,0,1,2,0,3,1,0,1,2,2,1,2,0,4,1
+leeft in water,lives in water,12,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+leeft niet lang,doesn't live long,21,2,2,2,2,4,2,2,2,2,2,2,3,2,3,2,3,2,2,2,3,2,3,3,2,2,2
+leeft onder de grond,lives under the ground,19,0,1,0,1,1,1,0,0,0,0,0,1,0,2,1,1,0,1,0,0,0,0,0,1,0,4
+leeft waar het vochtig is,lives in a damp climate,15,0,3,1,2,1,1,3,3,1,1,0,0,0,0,1,1,2,2,0,0,1,0,0,1,1,4
+legt eieren,lays eggs,22,3,3,3,3,3,3,3,3,3,3,3,4,3,3,3,3,2,3,3,4,3,3,3,3,3,2
+legt neten,produces nits,10,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+lente,spring,6,3,0,2,1,2,2,0,2,1,1,4,0,2,2,0,2,2,0,2,0,2,0,4,0,2,0
+lijkt op een worm,resembles a worm,6,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,1,0,2
+maakt geen geluid,doesn't make a sound,23,1,4,1,3,3,1,4,2,1,1,4,4,1,3,2,1,4,4,3,3,2,1,2,2,1,3
+maakt geluid,makes a sound,29,2,0,1,1,1,2,1,1,3,2,0,0,2,1,1,2,0,0,1,1,2,2,0,0,2,0
+maakt heel vervelend geluid,makes an extremely irritating sound,10,2,0,1,1,2,2,1,0,1,2,0,0,0,0,0,3,0,0,0,1,1,3,0,0,2,0
+maakt honing,makes honey,22,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+maakt mierenhopen in zand/ aarde,makes ant hills in sand/earth,4,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+maakt web,makes web,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0
+moeilijk te verdelgen,difficult to exterminate,10,0,0,1,0,1,0,3,0,0,1,0,3,1,1,2,1,0,2,0,1,1,1,1,3,2,0
+mooie kleuren,beautiful colours,10,2,0,0,2,0,2,0,3,2,2,4,0,1,0,0,0,1,0,3,1,3,0,4,0,2,0
+mottenballen als remedie,mothballs as a remedy,7,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0
+mugachtig beestje,looks like a mosquito,4,0,0,2,0,1,0,0,0,0,2,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0
+nachtdier,nocturnal animal,31,0,1,1,1,1,1,3,1,1,0,0,1,1,1,1,3,1,1,0,0,1,0,0,0,0,0
+neutrale geur,neutral scent,5,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3
+niet erg geliefd bij de mens,is not very popular among man,24,3,3,4,3,4,4,4,2,1,3,0,4,2,3,4,4,3,4,1,4,2,4,1,4,4,2
+ongedierte,is vermin,12,0,3,2,1,2,1,3,1,0,1,0,3,0,1,3,2,2,4,0,0,1,2,0,2,0,0
+onhygiënisch,is unhygienic,4,0,2,2,1,2,1,3,1,0,1,0,3,0,1,1,1,1,2,0,2,0,2,0,2,0,1
+onopvallend,is inconspicious,9,1,2,0,1,0,0,2,2,1,3,1,1,3,0,0,0,2,0,1,0,2,1,0,1,0,0
+parasiet,is parasite,8,0,3,0,0,0,0,0,0,0,1,0,3,0,0,0,1,0,0,0,0,0,1,0,3,1,1
+plant zich snel voort,reproduces fast,17,2,1,2,1,3,2,1,1,1,2,1,3,1,3,2,3,1,3,1,3,2,2,0,3,1,0
+rood,is red,17,0,0,0,1,0,0,0,1,1,0,3,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0
+rood met zwarte stippen,is red with black spots,15,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+rood of zwart,is red or black,8,0,0,2,2,0,0,1,3,0,0,1,1,0,3,0,0,0,0,0,0,0,0,0,0,0,1
+slijmerig,is slimy,26,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,4
+sommige mensen zijn er allergisch voor,some people are allergic to it,7,2,0,2,0,0,2,0,0,0,1,0,2,0,1,0,2,0,0,1,1,0,1,1,0,3,0
+steekt,stings,86,4,0,2,1,0,2,0,1,0,2,0,1,0,2,0,2,0,1,0,1,0,1,1,0,4,0
+steekt niet,doesn't sting,10,0,4,2,3,4,2,4,3,4,4,4,3,4,3,4,2,4,4,4,3,4,4,3,4,0,4
+tjirpt,chirps,9,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+vleugels geven af,wings run,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,2,0,0,0
+vooral in de zomer,seen mainly in summer,83,4,1,3,2,2,4,1,2,3,2,3,0,1,2,1,3,2,1,3,1,3,2,3,0,3,0
+vooral in zuiderse landen,is found mainly in southern countries,5,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0
+wekt angst op,incites fear,30,4,3,3,2,1,3,3,1,1,2,1,3,1,1,2,2,3,3,1,3,1,0,1,2,4,1
+werd vroeger in geneeskunde gebruikt,was used in medical science in earlier times,5,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+wordt cocon,becomes cocoon,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0
+wordt doodgeslagen door mensen,is killed by man,13,3,1,3,1,3,2,1,1,0,1,0,2,1,3,3,3,1,2,0,4,0,3,1,1,4,0
+wordt door sommige mensen verzameld,is collected,5,0,0,0,0,0,0,0,3,0,1,3,0,1,0,0,0,0,2,4,3,3,0,3,0,0,1
+wordt een vlinder,becomes a butterfly,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0
+wordt gebruikt als aas door vissers,is scary,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3
+wordt gebruikt als voedsel voor reptielen,is used as food for reptiles,4,1,1,2,2,2,1,1,3,1,1,1,1,1,2,1,2,2,2,1,2,1,2,0,1,1,1
+wordt gegeten door vogels,is eaten by birds,27,2,3,3,2,2,3,3,4,3,2,3,0,2,2,3,3,3,3,3,3,3,2,1,2,3,4
+wordt opgegeten door andere dieren,is eaten by other animals,9,3,4,4,4,3,3,4,4,3,3,3,4,3,4,3,4,4,4,4,4,4,4,4,4,4,4
+wordt soms door mensen gegeten,is sometimes eaten by man,27,0,0,0,1,0,1,1,2,1,0,0,0,0,2,0,0,1,0,2,0,2,0,0,1,0,0
+wordt verdelgd,is exterminated,30,1,2,2,1,2,1,4,2,0,2,1,3,2,4,4,4,1,3,2,2,2,2,1,3,4,0
+ze communiceren met elkaar,communicates with its congeners,4,2,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,3,1
+zeldzaam,is rare,5,1,1,0,0,0,0,0,2,1,1,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+zes poten,has six paws,76,4,1,4,2,4,4,4,4,4,4,4,4,4,4,3,4,2,2,2,1,4,4,4,3,3,1
+ziet er slakachtig uit,looks like a snail,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0
+zit in het haar,is found in hair,21,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,1,0,3,0,0
+zit in kleren,is found in clothing,5,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3,0,0,0,0,0,0,1,0,0,0,0
+zit op bloemen,sits on flowers,20,4,0,1,1,1,2,0,2,0,1,1,0,1,0,0,0,0,0,2,0,2,0,4,0,3,0
+zit op fruit,sits on fruit,7,2,0,1,0,2,1,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,1,0,1,1
+zit vaak onder stuk hout,often sits under a piece of wood,5,0,0,0,1,0,1,1,1,0,0,0,1,0,1,1,1,2,4,0,1,0,0,0,1,0,1
+zit veel op honden,is often found on dogs,6,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,3,0,3,0,0
+zoemt,buzzes,73,4,0,3,1,2,3,0,0,0,2,0,0,1,1,1,3,0,0,0,1,0,3,1,0,3,0
+zorgt voor jeuk,causes itching,50,2,2,2,1,0,1,0,0,0,2,0,3,0,2,0,3,0,1,0,1,0,1,0,2,2,0
+zuigt bloed,sucks blood,46,0,3,1,0,0,1,0,0,0,2,0,2,0,1,0,2,0,0,0,0,0,1,0,2,0,0
+zwart,is black,74,1,2,4,1,2,1,3,2,1,0,0,2,0,3,2,1,0,3,0,3,0,4,0,1,0,0
+
+
+
+
+
+
+
+
+
+
+
+,,,,,,,,,,,,,,,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,,,,,,,,,,,,

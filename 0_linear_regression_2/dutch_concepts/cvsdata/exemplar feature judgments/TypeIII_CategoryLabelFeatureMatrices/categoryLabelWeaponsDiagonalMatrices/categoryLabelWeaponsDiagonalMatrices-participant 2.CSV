@@ -1,0 +1,34 @@
+,feature/ exemplar ENGLISH,,bazooka,axe,knuckle dusters,bow,dagger,rifle,grenade,canon,slingshot,club,machine gun,pistol,shield,spear,stick,tank,rope,double barrelled shotgun,sword,whip
+feature / exemplar DUTCH,,freq,bazooka,bijl,boksbeugel,boog,dolk,geweer,granaat,kanon,katapult,knuppel,mitrailleur,pistool,schild,speer,stok,tank,touw,tweeloop,zwaard,zweep
+bestaat al lang,has been existing for a long time,4,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1
+bestaat in verschillende groottes,exists in different sizes,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+bestaat in verschillende soorten,exists in different kinds,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+bestaat in verschillende vormen,exists in different forms,6,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+bevat kogels,contains bullets,10,1,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,1,0,0
+dient om je te beschermen,is used to protect you,13,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+gemaakt uit metaal,made of metal,9,0,1,0,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0
+heeft een handvat,has a grip,5,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,1,0,0
+heeft een loop,has a barrel,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+is gevaarlijk,is dangerous,14,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+is gewelddadig,is violent,3,1,0,0,1,0,1,1,1,0,0,1,1,0,1,0,1,0,1,0,0
+is hard,is hard,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+is verboden,is forbidden,2,1,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,1,1,1,0
+is zwaar,is heavy,4,0,1,0,1,1,0,0,1,0,1,0,0,1,1,1,1,1,0,1,0
+is zwart,is black,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+je kan er iemand mee doden,you can kill someone with it,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+vernielt,destroys,4,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+wordt gebruikt bij sport,used in sports,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+wordt gebruikt door criminelen,used by criminals,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0
+wordt gebruikt door politie,used by police men,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+wordt gebruikt door soldaten,used by soldiers,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+wordt gebruikt om oorlog te voeren,used to make war,13,1,0,0,0,0,1,1,1,0,0,1,1,0,0,0,1,0,1,0,0
+wordt gebruikt om te jagen,used to hunt,5,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+gebruiksvoorwerp,implement/tool,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+is onderhevig aan regels,is subject to rules,3,1,0,0,0,1,1,1,1,0,0,1,1,0,0,0,1,0,1,1,0
+is populair in Amerika,is popular in the United States,2,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+je kan er iemand mee verwonden,you can injure someone with it,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+kan je mee schieten,can be shot with,2,1,0,0,1,0,1,0,1,1,0,1,1,0,0,0,1,0,1,0,0
+komt vaak voor in films,occurs often in films,2,0,0,0,0,1,1,1,1,0,0,1,1,0,0,1,0,0,1,1,0
+moet je een wapenvergunning voor hebben,you need a weapon license for it,6,1,0,0,0,1,1,1,1,0,0,1,1,0,0,0,1,0,1,1,0
+vind je vaak in actiefilms,is often found in action movies,2,1,0,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,1,0,0
+wordt alleen door mensen gebruikt,is only used by humans,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1

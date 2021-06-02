@@ -1,0 +1,40 @@
+,feature/ exemplar ENGLISH,,bra,blouse,pants,tie,shirt,hat,coat,jeans,tracksuit,dress,suit,boots,beanie,cap,pyjamas,belt,skirt,dungarees,shoes,shorts,scarf,panties,socks,sweater,top,pullover,t-shirt,mittens,bathing suit,
+feature / exemplar DUTCH,,freq,beha,bloes,broek,das,hemd,hoed,jas,jeans,jogging,kleed,kostuum,laarzen,muts,pet,pyjama,riem,rok,salopet,schoenen,short,sjaal,slip,sokken,sweater,topje,trui,t-shirt,wanten,zwempak,
+beschermt je tegen de kou,protects against the cold,9,0,0,1,0,0,0,1,1,0,0,0,1,1,0,1,0,0,0,1,0,1,0,0,1,0,1,0,1,0,
+beschermt tegen de regen,protects against the rain,2,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+beschermt tegen de zon,protects against the sun,3,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+bestaat al lang,has been existing for a long time,2,0,0,1,0,1,1,0,0,0,1,1,0,1,0,1,0,1,0,1,0,1,0,1,0,0,1,0,0,0,
+bestaat in verschillende kleuren,exists in different colors,15,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+bestaat in verschillende maten,exists in different sizes,4,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,
+dient om je te bedekken,is used to cover yourself,10,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,0,0,1,1,0,1,0,1,0,1,
+geeft warmte,gives warmth,2,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,
+is duur,is expensive,8,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
+is mooi,is beautiful,2,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
+is van stof,is made of fabric,8,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,
+is van textiel,is made of textile,2,1,1,1,1,1,0,1,1,0,1,1,0,1,1,1,0,1,0,0,0,1,1,0,1,1,0,0,0,1,
+is van wol,is made of wool,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,
+kan statussymbool zijn,can be a status symbol,4,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+koop je in de winkel,bought in a store,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+moet je wassen,needs to be washed,7,1,1,1,0,1,0,1,0,1,1,0,1,1,1,1,0,1,1,0,1,1,1,1,1,1,0,1,1,1
+wordt verkocht in kledingswinkels,sold in clothes shops,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+beschermt je lichaam,protects your body,9,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1
+dient een esthetisch doel,has esthetic purposes,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+drukt je persoonlijkheid uit,expresses your personality,4,0,1,1,1,1,1,1,1,0,1,1,0,1,1,0,0,1,0,1,0,1,0,1,1,1,1,1,0,0
+is bedoeld om aan te doen,is meant to wear,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+is confectie,ready-to-wear clothes,3,0,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,1,1,0,1,0,0,0,1,1,1,1,0,0
+is er in verschillende stijlen,comes in different styles,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1
+is er in verschillende stoffen,comes in different fabrics,6,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+is fleurig,is abloom,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+is maatwerk,custom-made,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+is modegebonden,comes into fashion / goes out of fashion,9,0,1,1,1,1,0,1,1,1,1,1,0,1,1,0,0,1,1,1,1,1,0,0,1,1,1,1,0,1
+is onmisbaar,is indispensable,2,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0
+is plooibaar,is pliable,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+is seizoensgebonden,is season-tied,3,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0
+is verschillend voor mannen en vrouwen,is different for men and women,5,1,1,1,1,1,0,1,0,0,1,1,1,0,0,1,0,1,0,1,1,1,1,1,0,1,0,0,0,1
+kan scheuren,can rip,2,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,0,1,0,1,1,1,1,1,1,0,1
+kan verslijten,can wear off,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+verschilt van cultuur tot cultuur,differs from one culture to the other,6,1,1,0,1,1,1,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,1
+vind je in de kleerkast,is found in a clothing cupboard,4,1,1,1,1,1,0,0,1,1,1,1,0,0,0,1,0,1,1,0,1,0,1,1,1,1,1,1,0,1
+wordt door iedereen gedragen,is worn by everyone,3,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,1,1,0,0
+wordt genaaid,is sewn,2,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,0,1,1,1,1,1,1,1,1,0,1
+wordt snel vuil,easily gets dirty ,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0

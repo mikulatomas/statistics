@@ -1,0 +1,36 @@
+,feature/ exemplar ENGLISH,,monkey,beaver,bison,dromedary,squirrel,hedgehog,donkey,giraffe,hamster,deer,dog,polar bear,kangaroo,cat,cow,rabbit,llama,lion,mouse,rhinoceros,hippopotamus,elephant,horse,sheep,tiger,pig,bat,fox,wolf,zebra
+feature / exemplar DUTCH,,freq,aap,bever,bizon,dromedaris,eekhoorn,egel,ezel,giraf,hamster,hert,hond,ijsbeer,kangoeroe,kat,koe,konijn,lama,leeuw,muis,neushoorn,nijlpaard,olifant,paard,schaap,tijger,varken,vleermuis,vos,wolf,zebra
+er zijn verschillende soorten,there are many kinds of it,6,1,0,0,0,1,0,0,0,1,1,1,0,1,1,1,1,1,0,1,0,0,1,1,1,1,1,1,1,0,0
+heeft een vacht,has a fur (in dutch: vacht),14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+heeft poten,has legs,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+heeft vier poten,has four paws,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+is een dier,is an animal,6,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+kan verschillende kleuren hebben,can have different colors,2,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+kan zwemmen,can swim,2,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,0,0,1,1,0,0,0,1,0,1,0,0,1,1,1
+leeft in de zoo,lives in the zoo,2,1,1,1,1,1,0,1,1,0,1,0,1,1,0,0,0,1,1,0,1,1,1,0,0,1,0,0,1,1,1
+leeft in het wild,lives in the wild,3,1,1,1,1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1
+leeft in water,lives in water,3,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+leeft op het land,lives on land  ,8,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1
+ademt,breathes,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ademt door longen,breathes through lungs,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+baart levende jongen,its babies are born alive,13,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+eet,eats,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+gaat dood,dies,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+heeft longen,has lungs,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+heeft ogen,has eyes,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+heeft tepels,has nipples,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+is behaard,is hairy,4,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,1,1,1
+is een dolfijn,is a dolphin,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+is een levend wezen,is a living being,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+is een mens,is a human,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+is er in verschillende groottes,comes in different sizes,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+is er in verschillende vormen,comes in different shapes,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+is gewerveld,is a vertebrate,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+is warmbloedig,is warm-blooded,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+kan niet vliegen,can't fly,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+kan zich voortplanten,is able to reproduce,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+kan ziek worden,can become ill,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+leeft op het land en in het water,lives on land and sea,5,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+legt geen eieren,does not lay eggs,8,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+wordt soms als huisdier gehouden,is sometimes kept as a pet,3,1,0,0,0,0,0,1,0,1,1,1,0,0,1,1,1,0,0,1,0,0,0,1,1,0,1,0,0,0,0
+zoogt de jongen,breastfeeds its babies,17,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1

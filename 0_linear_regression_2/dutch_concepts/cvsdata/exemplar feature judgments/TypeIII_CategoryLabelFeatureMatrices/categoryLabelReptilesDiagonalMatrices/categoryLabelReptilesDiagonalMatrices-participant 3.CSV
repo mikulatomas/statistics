@@ -1,0 +1,37 @@
+,feature/ exemplar ENGLISH,,viper,alligator,boa,cobra,dinosaur,gecko,lizard,blindworm,caiman,chameleon,frog,crocodile,iguana,toad,python,salamander,tortoise,snake,monitor lizard,turtle
+feature / exemplar DUTCH,,freq,adder,alligator,boa,cobra,dinosaurus,gekko,hagedis,hazelworm,kaaiman,kameleon,kikker,krokodil,leguaan,pad,python,salamander,schildpad,slang,varaan,waterschildpad
+angstaanjagend,is terrifying,3,0,1,1,1,1,0,0,0,1,0,0,1,0,0,1,0,0,1,1,0
+eet insecten,eats insects,2,0,0,0,0,0,1,1,1,0,1,1,0,0,1,0,1,0,0,1,0
+er zijn verschillende soorten,there are many kinds of it,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+gevaarlijk,is dangerous,6,1,0,0,1,0,0,0,0,1,0,1,1,0,0,1,0,0,1,1,0
+heeft een lange tong,has a long tongue,2,1,0,1,1,0,1,1,0,0,1,1,0,1,1,1,1,0,1,1,0
+heeft een staart,has a tail,3,0,1,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,0
+heeft geen poten,has no paws,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+heeft schubben,has scales,15,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,0,1,1,0
+heeft tanden,has teeth,2,1,1,0,1,1,1,1,0,1,0,0,1,1,0,0,1,1,1,1,1
+heeft vier poten,has four paws,3,0,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,1,0,1,1
+is een dier,is an animal,12,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+is een exotisch dier,is an exotic animal,4,0,1,1,1,0,1,0,0,1,1,0,1,1,0,1,0,1,1,1,1
+is glibberig,is slippery,2,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+is groen,is green,8,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1
+is lelijk,is ugly,2,1,1,0,1,1,0,0,1,1,0,0,1,0,1,0,0,0,1,1,0
+is vies,is nasty,2,1,1,0,1,1,0,0,1,1,0,0,1,1,1,0,0,0,0,1,0
+kan giftig zijn,can be poisonous,3,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+koudbloedig,is cold-blooded,12,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+leeft in de zoo,lives in the zoo,6,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+leeft in water,lives in water,2,0,1,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,1
+leeft op het land,lives on land  ,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+leeft op het land en in het water,lives on land and sea,5,0,1,0,0,0,0,0,0,1,0,1,1,0,1,0,0,1,0,0,1
+legt eieren,lays eggs,17,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+soort slang,kind of snake,4,1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+soort van krokodil,kind of crocodile,4,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+stamt af van de dinosauriërs,descend from the dinosaur,3,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0
+gaat dood,dies,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+heeft longen,has lungs,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+houdt winterslaap,hibernates,2,1,0,1,1,0,0,1,1,0,1,1,0,1,1,1,1,0,1,1,0
+is een schildpad,is a turtle,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+is gewerveld,is a vertebrate,3,0,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0,1,0
+is griezelig,is creepy,3,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0
+kan bijten,can bite,2,1,1,1,1,1,1,1,0,1,0,0,1,1,0,1,0,1,1,1,0
+kan gevaarlijk zijn,can be dangerous,4,1,1,1,1,1,1,0,0,1,0,0,1,1,0,1,0,0,1,1,0
+wordt soms als huisdier gehouden,is sometimes kept as a pet,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
