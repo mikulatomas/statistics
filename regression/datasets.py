@@ -34,9 +34,8 @@ def load_happines():
 
     df.index.name = "country"
 
-    df.sort_values("target", inplace=True)
-
-    df_train = df
+    # df.sort_values("target", inplace=True)
+    df_train = df.sample(frac=1, random_state=22)
 
     df = pd.read_csv(os.path.join(HAPPINESS_DIR, "2016.csv"), index_col=0)
 
@@ -69,8 +68,8 @@ def load_happines():
 
     df.index.name = "country"
 
-    df.sort_values("target", inplace=True)
+    df_test = df.sample(frac=1, random_state=22)
 
-    df_test = df
+    # df_test = df
 
     return df_train, df_test
