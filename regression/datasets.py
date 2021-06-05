@@ -1,7 +1,5 @@
 import os
 import pandas as pd
-from sklearn.utils import resample
-from sklearn.model_selection import train_test_split
 
 HAPPINESS_DIR = os.path.join("datasets", "happines")
 
@@ -69,7 +67,5 @@ def load_happines():
     df.index.name = "country"
 
     df_test = df.sample(frac=1, random_state=22)
-
-    # df_test = df
 
     return df_train, df_test
