@@ -2,6 +2,7 @@ import os
 import pandas as pd
 from sklearn.utils import resample
 from sklearn.model_selection import train_test_split
+import numpy as np
 
 
 def load_titanic():
@@ -25,7 +26,18 @@ def load_titanic():
 
     df.drop(drop_features, axis=1, inplace=True)
 
-    df_train, df_test = train_test_split(df, train_size=0.2, random_state=22)
+    # train_X, train_y, test_X, test_y
+    df_train, df_test = train_test_split(
+        df.values, train_size=0.2, random_state=22, stratify=df["target"]
+    )
+
+    df_train = pd.DataFrame(df_train, columns=df.columns)
+    df_test = pd.DataFrame(df_test, columns=df.columns)
+
+    df_train = df_train.astype(df.dtypes.to_dict())
+    df_test = df_test.astype(df.dtypes.to_dict())
+    # df_train = pd.DataFrame(np.stack((train_X, train_y), axis=1), columns=df.columns)
+    # df_test = pd.DataFrame(np.stack((test_X, test_y), axis=1), columns=df.columns)
 
     return df, df_train, df_test
 
