@@ -28,7 +28,7 @@ def load_titanic():
 
     # train_X, train_y, test_X, test_y
     df_train, df_test = train_test_split(
-        df.values, train_size=0.2, random_state=22, stratify=df["target"]
+        df, test_size=0.3, random_state=22, stratify=df["target"]
     )
 
     df_train = pd.DataFrame(df_train, columns=df.columns)
