@@ -3,6 +3,20 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 
 
+def load_wine():
+    # https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
+
+    df = pd.read_csv(os.path.join(os.path.join("datasets", "wine"), "wine.csv"))
+
+    target = df["quality"]
+    df.drop("quality", axis=1, inplace=True)
+
+    df["target"] = target
+    df_train, df_test = train_test_split(df, test_size=0.2, random_state=22)
+
+    return df, df_train, df_test
+
+
 def load_tips():
     # https://www.kaggle.com/jsphyg/tipping?select=tips.csv
 
@@ -17,8 +31,33 @@ def load_tips():
     df.drop("tip", axis=1, inplace=True)
 
     df["target"] = target
+    df_train, df_test = train_test_split(df, test_size=0.2, random_state=22)
 
-    return train_test_split(df, test_size=0.3, random_state=22)
+    return df, df_train, df_test
+
+
+def load_home():
+    # https://www.kaggle.com/shree1992/housedata
+
+    df = pd.read_csv(os.path.join(os.path.join("datasets", "home"), "data.csv"))
+
+    df.drop("date", axis=1, inplace=True)
+    df.drop("street", axis=1, inplace=True)
+    # df.drop("city", axis=1, inplace=True)
+    df.drop("statezip", axis=1, inplace=True)
+    df.drop("country", axis=1, inplace=True)
+    df.drop("yr_renovated", axis=1, inplace=True)
+
+    df = pd.get_dummies(df)
+
+    target = df["price"]
+    df.drop("price", axis=1, inplace=True)
+
+    df["target"] = target
+
+    df_train, df_test = train_test_split(df, test_size=0.5, random_state=22)
+
+    return df, df_train, df_test
 
 
 # HAPPINESS_DIR = os.path.join("datasets", "happines")
