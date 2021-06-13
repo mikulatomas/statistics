@@ -1,14 +1,20 @@
-from sklearn.metrics import confusion_matrix as confusion
+from sklearn.metrics import mean_squared_error
 from sklearn.utils import resample
 import pandas as pd
 import numpy as np
 
 
 def model_performance(model, train_X, train_y, test_X, test_y):
+    print("R-squared:")
     print("Train score")
     print(model.score(train_X, train_y))
     print("Test score")
     print(model.score(test_X, test_y))
+    print("MSE:")
+    print("Train score")
+    print(mean_squared_error(train_y, model.predict(train_X)))
+    print("Test score")
+    print(mean_squared_error(test_y, model.predict(test_X)))
 
 
 def coef_table(coef, features):
