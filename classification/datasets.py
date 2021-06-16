@@ -1,32 +1,44 @@
 import os
 import pandas as pd
-from sklearn.utils import resample
 from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
 import numpy as np
 
 
-def load_titanic():
-    # https://www.kaggle.com/c/titanic/data
+def titanic_data():
+    """Prepares and loads diabetes data
 
-    def load(filename):
-        df = pd.read_csv(os.path.join("datasets", "titanic", filename), index_col=0)
+    More information about data: https://www.kaggle.com/c/titanic/data
 
-        df.columns = df.columns.str.lower()
-        df.index.name = None
-
-        if "survived" in df.columns:
-            df["target"] = df["survived"]
-            df = df.drop("survived", axis=1)
-
-        return df
+    """
 
     drop_features = ["name", "ticket", "cabin"]
 
-    df = replace_nan_titanic(load("train.csv"))
+    df = pd.read_csv(os.path.join("datasets", "titanic", "train.csv"), index_col=0)
 
+    # lowercase feature names, remove name of index
+    df.columns = df.columns.str.lower()
+    df.index.name = None
+
+    # extract target feature
+    df["target"] = df["survived"]
+    df = df.drop("survived", axis=1)
+
+    # drop features
     df.drop(drop_features, axis=1, inplace=True)
 
-    # train_X, train_y, test_X, test_y
+    # fill missing values
+    df["age"] = df["age"].fillna(df["age"].median())
+    df["fare"] = df["fare"].fillna(df["fare"].median())
+    df["embarked"] = df["embarked"].fillna(df["embarked"].mode().values[0])
+
+    # scale sex feature to 0/1 instead of male/female
+    df["sex"].replace({"male": 0, "female": 1}, inplace=True)
+
+    # create dummy variables for rest qualitative features
+    df = pd.get_dummies(df)
+
+    # split data into train and test, use stratification if possible
     df_train, df_test = train_test_split(
         df, test_size=0.3, random_state=22, stratify=df["target"]
     )
@@ -36,30 +48,19 @@ def load_titanic():
 
     df_train = df_train.astype(df.dtypes.to_dict())
     df_test = df_test.astype(df.dtypes.to_dict())
-    # df_train = pd.DataFrame(np.stack((train_X, train_y), axis=1), columns=df.columns)
-    # df_test = pd.DataFrame(np.stack((test_X, test_y), axis=1), columns=df.columns)
 
-    return df, df_train, df_test
+    # separate input and output variables
+    train_X = df_train.drop(["target"], axis=1).reset_index(drop=True)
+    train_y = df_train["target"].reset_index(drop=True)
+    test_X = df_test.drop(["target"], axis=1).reset_index(drop=True)
+    test_y = df_test["target"].reset_index(drop=True)
+    original_X = df.drop(["target"], axis=1).reset_index(drop=True)
+    original_y = df["target"].reset_index(drop=True)
 
+    # standartize data
+    scaler = StandardScaler().fit(original_X)
+    original_X = pd.DataFrame(scaler.transform(original_X), columns=original_X.columns)
+    train_X = pd.DataFrame(scaler.transform(train_X), columns=train_X.columns)
+    test_X = pd.DataFrame(scaler.transform(test_X), columns=test_X.columns)
 
-def replace_nan_titanic(df):
-    df["age"] = df["age"].fillna(df["age"].median())
-    df["fare"] = df["fare"].fillna(df["fare"].median())
-
-    df["embarked"] = df["embarked"].fillna(df["embarked"].mode().values[0])
-
-    return df
-
-
-def balance_classes(df):
-    sample_size = min(
-        df[df["target"] == 1].count()[0],
-        df[df["target"] == 0].count()[0],
-    )
-
-    return pd.concat(
-        [
-            resample(df[df["target"] == 0], replace=False, n_samples=sample_size),
-            resample(df[df["target"] == 1], replace=False, n_samples=sample_size),
-        ]
-    )
+    return original_X, original_y, train_X, train_y, test_X, test_y

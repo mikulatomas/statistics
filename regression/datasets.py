@@ -12,6 +12,8 @@ def diabetes_data():
     dataset = load_diabetes(as_frame=True)
 
     df = dataset["data"]
+
+    # extract target feature
     df["target"] = dataset["target"]
 
     # lowercase feature names
