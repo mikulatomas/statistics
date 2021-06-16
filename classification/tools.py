@@ -8,27 +8,13 @@ from plotly.offline import init_notebook_mode
 init_notebook_mode(connected=True)
 
 
-def model_performance(model, train_X, train_y, test_X, test_y):
-    print("Train score")
-    print(model.score(train_X, train_y))
-    print("Test score")
-    print(model.score(test_X, test_y))
-
-
-# def confusion_matrix(train_X, train_y, test_X, test_y):
-#     tn, fp, fn, tp = confusion(train_y, train_X.astype(float)).ravel()
-
-#     print("Train")
-#     print(f"TN: {tn}, TP: {tp}, FN: {fn}, FP: {fp}")
-
-#     tn, fp, fn, tp = confusion(test_y, test_X.astype(float)).ravel()
-
-#     print("Test")
-#     print(f"TN: {tn}, TP: {tp}, FN: {fn}, FP: {fp}")
-
-
 def roc(model, data_X, data_y):
-    predicted_y = model.predict_proba(data_X)[:, 1]
+    predicted_y = model.predict_proba(data_X)
+
+    try:
+        predicted_y = predicted_y[:, 1]
+    except:
+        pass
 
     fpr, tpr, thresholds = roc_curve(data_y, predicted_y)
 
