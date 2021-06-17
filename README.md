@@ -5,7 +5,7 @@ Simple demonstration of basic multivariate statistics.
 Notebooks can be previewed on [nbviewer](https://nbviewer.jupyter.org/github/mikulatomas/statistics/tree/main/).
 
 ## Structure
-There are four folders ```classification, clustering, factor_analysis, regression``` each corresponds to corresponding field from multivariate statistics.
+There are four folders ```classification, clustering, factor_analysis, regression``` each corresponds to one field from multivariate statistics.
 
 ## Used datasets
 * Diabetes data - https://scikit-learn.org/stable/datasets/toy_dataset.html#diabetes-dataset
