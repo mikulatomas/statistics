@@ -2,7 +2,7 @@
 
 Simple demonstration of basic multivariate statistics.
 
-Notebooks can be previewed on [nbviewer](https://nbviewer.jupyter.org/github/mikulatomas/statistics/tree/main/factor_analysis/).
+Notebooks can be previewed on [nbviewer](https://nbviewer.jupyter.org/github/mikulatomas/statistics/tree/main/).
 
 ## Structure
 There are four folders ```classification, clustering, factor_analysis, regression``` each corresponds to corresponding field from multivariate statistics.
